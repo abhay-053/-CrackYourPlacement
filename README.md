@@ -5,6 +5,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0733-flood-fill](https://github.com/abhay-053/-CrackYourPlacement/tree/master/0733-flood-fill) |
+| [1496-lucky-numbers-in-a-matrix](https://github.com/abhay-053/-CrackYourPlacement/tree/master/1496-lucky-numbers-in-a-matrix) |
 ## Depth-First Search
 |  |
 | ------- |
@@ -18,6 +19,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0733-flood-fill](https://github.com/abhay-053/-CrackYourPlacement/tree/master/0733-flood-fill) |
+| [1496-lucky-numbers-in-a-matrix](https://github.com/abhay-053/-CrackYourPlacement/tree/master/1496-lucky-numbers-in-a-matrix) |
 ## Tree
 |  |
 | ------- |
