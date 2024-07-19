@@ -4,6 +4,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Array
 |  |
 | ------- |
+| [0215-kth-largest-element-in-an-array](https://github.com/abhay-053/-CrackYourPlacement/tree/master/0215-kth-largest-element-in-an-array) |
 | [0733-flood-fill](https://github.com/abhay-053/-CrackYourPlacement/tree/master/0733-flood-fill) |
 | [1496-lucky-numbers-in-a-matrix](https://github.com/abhay-053/-CrackYourPlacement/tree/master/1496-lucky-numbers-in-a-matrix) |
 ## Depth-First Search
@@ -28,4 +29,20 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [1653-number-of-good-leaf-nodes-pairs](https://github.com/abhay-053/-CrackYourPlacement/tree/master/1653-number-of-good-leaf-nodes-pairs) |
+## Divide and Conquer
+|  |
+| ------- |
+| [0215-kth-largest-element-in-an-array](https://github.com/abhay-053/-CrackYourPlacement/tree/master/0215-kth-largest-element-in-an-array) |
+## Sorting
+|  |
+| ------- |
+| [0215-kth-largest-element-in-an-array](https://github.com/abhay-053/-CrackYourPlacement/tree/master/0215-kth-largest-element-in-an-array) |
+## Heap (Priority Queue)
+|  |
+| ------- |
+| [0215-kth-largest-element-in-an-array](https://github.com/abhay-053/-CrackYourPlacement/tree/master/0215-kth-largest-element-in-an-array) |
+## Quickselect
+|  |
+| ------- |
+| [0215-kth-largest-element-in-an-array](https://github.com/abhay-053/-CrackYourPlacement/tree/master/0215-kth-largest-element-in-an-array) |
 <!---LeetCode Topics End-->
