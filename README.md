@@ -6,6 +6,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0001-two-sum](https://github.com/abhay-053/-CrackYourPlacement/tree/master/0001-two-sum) |
 | [0026-remove-duplicates-from-sorted-array](https://github.com/abhay-053/-CrackYourPlacement/tree/master/0026-remove-duplicates-from-sorted-array) |
+| [0075-sort-colors](https://github.com/abhay-053/-CrackYourPlacement/tree/master/0075-sort-colors) |
 | [0121-best-time-to-buy-and-sell-stock](https://github.com/abhay-053/-CrackYourPlacement/tree/master/0121-best-time-to-buy-and-sell-stock) |
 | [0215-kth-largest-element-in-an-array](https://github.com/abhay-053/-CrackYourPlacement/tree/master/0215-kth-largest-element-in-an-array) |
 | [0283-move-zeroes](https://github.com/abhay-053/-CrackYourPlacement/tree/master/0283-move-zeroes) |
@@ -49,6 +50,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Sorting
 |  |
 | ------- |
+| [0075-sort-colors](https://github.com/abhay-053/-CrackYourPlacement/tree/master/0075-sort-colors) |
 | [0215-kth-largest-element-in-an-array](https://github.com/abhay-053/-CrackYourPlacement/tree/master/0215-kth-largest-element-in-an-array) |
 ## Heap (Priority Queue)
 |  |
@@ -95,6 +97,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0026-remove-duplicates-from-sorted-array](https://github.com/abhay-053/-CrackYourPlacement/tree/master/0026-remove-duplicates-from-sorted-array) |
 | [0028-find-the-index-of-the-first-occurrence-in-a-string](https://github.com/abhay-053/-CrackYourPlacement/tree/master/0028-find-the-index-of-the-first-occurrence-in-a-string) |
+| [0075-sort-colors](https://github.com/abhay-053/-CrackYourPlacement/tree/master/0075-sort-colors) |
 | [0283-move-zeroes](https://github.com/abhay-053/-CrackYourPlacement/tree/master/0283-move-zeroes) |
 | [0287-find-the-duplicate-number](https://github.com/abhay-053/-CrackYourPlacement/tree/master/0287-find-the-duplicate-number) |
 ## Binary Search
