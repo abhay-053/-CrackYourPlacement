@@ -84,6 +84,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0070-climbing-stairs](https://github.com/abhay-053/-CrackYourPlacement/tree/master/0070-climbing-stairs) |
 | [0121-best-time-to-buy-and-sell-stock](https://github.com/abhay-053/-CrackYourPlacement/tree/master/0121-best-time-to-buy-and-sell-stock) |
 | [0122-best-time-to-buy-and-sell-stock-ii](https://github.com/abhay-053/-CrackYourPlacement/tree/master/0122-best-time-to-buy-and-sell-stock-ii) |
+| [1456-find-the-city-with-the-smallest-number-of-neighbors-at-a-threshold-distance](https://github.com/abhay-053/-CrackYourPlacement/tree/master/1456-find-the-city-with-the-smallest-number-of-neighbors-at-a-threshold-distance) |
 ## Hash Table
 |  |
 | ------- |
@@ -163,6 +164,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0820-find-eventual-safe-states](https://github.com/abhay-053/-CrackYourPlacement/tree/master/0820-find-eventual-safe-states) |
 | [1442-number-of-operations-to-make-network-connected](https://github.com/abhay-053/-CrackYourPlacement/tree/master/1442-number-of-operations-to-make-network-connected) |
+| [1456-find-the-city-with-the-smallest-number-of-neighbors-at-a-threshold-distance](https://github.com/abhay-053/-CrackYourPlacement/tree/master/1456-find-the-city-with-the-smallest-number-of-neighbors-at-a-threshold-distance) |
 ## Linked List
 |  |
 | ------- |
@@ -172,4 +174,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0820-find-eventual-safe-states](https://github.com/abhay-053/-CrackYourPlacement/tree/master/0820-find-eventual-safe-states) |
+## Shortest Path
+|  |
+| ------- |
+| [1456-find-the-city-with-the-smallest-number-of-neighbors-at-a-threshold-distance](https://github.com/abhay-053/-CrackYourPlacement/tree/master/1456-find-the-city-with-the-smallest-number-of-neighbors-at-a-threshold-distance) |
 <!---LeetCode Topics End-->
