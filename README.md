@@ -28,6 +28,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0820-find-eventual-safe-states](https://github.com/abhay-053/-CrackYourPlacement/tree/master/0820-find-eventual-safe-states) |
 | [0971-shortest-bridge](https://github.com/abhay-053/-CrackYourPlacement/tree/master/0971-shortest-bridge) |
 | [1442-number-of-operations-to-make-network-connected](https://github.com/abhay-053/-CrackYourPlacement/tree/master/1442-number-of-operations-to-make-network-connected) |
+| [1492-time-needed-to-inform-all-employees](https://github.com/abhay-053/-CrackYourPlacement/tree/master/1492-time-needed-to-inform-all-employees) |
 | [1653-number-of-good-leaf-nodes-pairs](https://github.com/abhay-053/-CrackYourPlacement/tree/master/1653-number-of-good-leaf-nodes-pairs) |
 ## Breadth-First Search
 |  |
@@ -37,6 +38,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0820-find-eventual-safe-states](https://github.com/abhay-053/-CrackYourPlacement/tree/master/0820-find-eventual-safe-states) |
 | [0971-shortest-bridge](https://github.com/abhay-053/-CrackYourPlacement/tree/master/0971-shortest-bridge) |
 | [1442-number-of-operations-to-make-network-connected](https://github.com/abhay-053/-CrackYourPlacement/tree/master/1442-number-of-operations-to-make-network-connected) |
+| [1492-time-needed-to-inform-all-employees](https://github.com/abhay-053/-CrackYourPlacement/tree/master/1492-time-needed-to-inform-all-employees) |
 ## Matrix
 |  |
 | ------- |
@@ -47,6 +49,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0112-path-sum](https://github.com/abhay-053/-CrackYourPlacement/tree/master/0112-path-sum) |
+| [1492-time-needed-to-inform-all-employees](https://github.com/abhay-053/-CrackYourPlacement/tree/master/1492-time-needed-to-inform-all-employees) |
 | [1653-number-of-good-leaf-nodes-pairs](https://github.com/abhay-053/-CrackYourPlacement/tree/master/1653-number-of-good-leaf-nodes-pairs) |
 ## Binary Tree
 |  |
