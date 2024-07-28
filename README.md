@@ -27,6 +27,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Depth-First Search
 |  |
 | ------- |
+| [0100-same-tree](https://github.com/abhay-053/-CrackYourPlacement/tree/master/0100-same-tree) |
 | [0112-path-sum](https://github.com/abhay-053/-CrackYourPlacement/tree/master/0112-path-sum) |
 | [0543-diameter-of-binary-tree](https://github.com/abhay-053/-CrackYourPlacement/tree/master/0543-diameter-of-binary-tree) |
 | [0733-flood-fill](https://github.com/abhay-053/-CrackYourPlacement/tree/master/0733-flood-fill) |
@@ -38,6 +39,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Breadth-First Search
 |  |
 | ------- |
+| [0100-same-tree](https://github.com/abhay-053/-CrackYourPlacement/tree/master/0100-same-tree) |
 | [0112-path-sum](https://github.com/abhay-053/-CrackYourPlacement/tree/master/0112-path-sum) |
 | [0733-flood-fill](https://github.com/abhay-053/-CrackYourPlacement/tree/master/0733-flood-fill) |
 | [0820-find-eventual-safe-states](https://github.com/abhay-053/-CrackYourPlacement/tree/master/0820-find-eventual-safe-states) |
@@ -55,6 +57,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Tree
 |  |
 | ------- |
+| [0100-same-tree](https://github.com/abhay-053/-CrackYourPlacement/tree/master/0100-same-tree) |
 | [0112-path-sum](https://github.com/abhay-053/-CrackYourPlacement/tree/master/0112-path-sum) |
 | [0543-diameter-of-binary-tree](https://github.com/abhay-053/-CrackYourPlacement/tree/master/0543-diameter-of-binary-tree) |
 | [1492-time-needed-to-inform-all-employees](https://github.com/abhay-053/-CrackYourPlacement/tree/master/1492-time-needed-to-inform-all-employees) |
@@ -62,6 +65,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Binary Tree
 |  |
 | ------- |
+| [0100-same-tree](https://github.com/abhay-053/-CrackYourPlacement/tree/master/0100-same-tree) |
 | [0112-path-sum](https://github.com/abhay-053/-CrackYourPlacement/tree/master/0112-path-sum) |
 | [0543-diameter-of-binary-tree](https://github.com/abhay-053/-CrackYourPlacement/tree/master/0543-diameter-of-binary-tree) |
 | [1653-number-of-good-leaf-nodes-pairs](https://github.com/abhay-053/-CrackYourPlacement/tree/master/1653-number-of-good-leaf-nodes-pairs) |
