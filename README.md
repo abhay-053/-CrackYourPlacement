@@ -141,6 +141,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0121-best-time-to-buy-and-sell-stock](https://github.com/abhay-053/-CrackYourPlacement/tree/master/0121-best-time-to-buy-and-sell-stock) |
 | [0122-best-time-to-buy-and-sell-stock-ii](https://github.com/abhay-053/-CrackYourPlacement/tree/master/0122-best-time-to-buy-and-sell-stock-ii) |
 | [1456-find-the-city-with-the-smallest-number-of-neighbors-at-a-threshold-distance](https://github.com/abhay-053/-CrackYourPlacement/tree/master/1456-find-the-city-with-the-smallest-number-of-neighbors-at-a-threshold-distance) |
+| [1756-minimum-deletions-to-make-string-balanced](https://github.com/abhay-053/-CrackYourPlacement/tree/master/1756-minimum-deletions-to-make-string-balanced) |
 ## Hash Table
 |  |
 | ------- |
@@ -158,11 +159,13 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0067-add-binary](https://github.com/abhay-053/-CrackYourPlacement/tree/master/0067-add-binary) |
 | [0257-binary-tree-paths](https://github.com/abhay-053/-CrackYourPlacement/tree/master/0257-binary-tree-paths) |
 | [0394-decode-string](https://github.com/abhay-053/-CrackYourPlacement/tree/master/0394-decode-string) |
+| [1756-minimum-deletions-to-make-string-balanced](https://github.com/abhay-053/-CrackYourPlacement/tree/master/1756-minimum-deletions-to-make-string-balanced) |
 ## Stack
 |  |
 | ------- |
 | [0020-valid-parentheses](https://github.com/abhay-053/-CrackYourPlacement/tree/master/0020-valid-parentheses) |
 | [0394-decode-string](https://github.com/abhay-053/-CrackYourPlacement/tree/master/0394-decode-string) |
+| [1756-minimum-deletions-to-make-string-balanced](https://github.com/abhay-053/-CrackYourPlacement/tree/master/1756-minimum-deletions-to-make-string-balanced) |
 ## Recursion
 |  |
 | ------- |
