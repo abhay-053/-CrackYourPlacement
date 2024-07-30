@@ -32,6 +32,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0110-balanced-binary-tree](https://github.com/abhay-053/-CrackYourPlacement/tree/master/0110-balanced-binary-tree) |
 | [0112-path-sum](https://github.com/abhay-053/-CrackYourPlacement/tree/master/0112-path-sum) |
 | [0404-sum-of-left-leaves](https://github.com/abhay-053/-CrackYourPlacement/tree/master/0404-sum-of-left-leaves) |
+| [0530-minimum-absolute-difference-in-bst](https://github.com/abhay-053/-CrackYourPlacement/tree/master/0530-minimum-absolute-difference-in-bst) |
 | [0543-diameter-of-binary-tree](https://github.com/abhay-053/-CrackYourPlacement/tree/master/0543-diameter-of-binary-tree) |
 | [0733-flood-fill](https://github.com/abhay-053/-CrackYourPlacement/tree/master/0733-flood-fill) |
 | [0820-find-eventual-safe-states](https://github.com/abhay-053/-CrackYourPlacement/tree/master/0820-find-eventual-safe-states) |
@@ -47,6 +48,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0101-symmetric-tree](https://github.com/abhay-053/-CrackYourPlacement/tree/master/0101-symmetric-tree) |
 | [0112-path-sum](https://github.com/abhay-053/-CrackYourPlacement/tree/master/0112-path-sum) |
 | [0404-sum-of-left-leaves](https://github.com/abhay-053/-CrackYourPlacement/tree/master/0404-sum-of-left-leaves) |
+| [0530-minimum-absolute-difference-in-bst](https://github.com/abhay-053/-CrackYourPlacement/tree/master/0530-minimum-absolute-difference-in-bst) |
 | [0733-flood-fill](https://github.com/abhay-053/-CrackYourPlacement/tree/master/0733-flood-fill) |
 | [0820-find-eventual-safe-states](https://github.com/abhay-053/-CrackYourPlacement/tree/master/0820-find-eventual-safe-states) |
 | [0893-all-nodes-distance-k-in-binary-tree](https://github.com/abhay-053/-CrackYourPlacement/tree/master/0893-all-nodes-distance-k-in-binary-tree) |
@@ -69,6 +71,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0110-balanced-binary-tree](https://github.com/abhay-053/-CrackYourPlacement/tree/master/0110-balanced-binary-tree) |
 | [0112-path-sum](https://github.com/abhay-053/-CrackYourPlacement/tree/master/0112-path-sum) |
 | [0404-sum-of-left-leaves](https://github.com/abhay-053/-CrackYourPlacement/tree/master/0404-sum-of-left-leaves) |
+| [0530-minimum-absolute-difference-in-bst](https://github.com/abhay-053/-CrackYourPlacement/tree/master/0530-minimum-absolute-difference-in-bst) |
 | [0543-diameter-of-binary-tree](https://github.com/abhay-053/-CrackYourPlacement/tree/master/0543-diameter-of-binary-tree) |
 | [0893-all-nodes-distance-k-in-binary-tree](https://github.com/abhay-053/-CrackYourPlacement/tree/master/0893-all-nodes-distance-k-in-binary-tree) |
 | [1492-time-needed-to-inform-all-employees](https://github.com/abhay-053/-CrackYourPlacement/tree/master/1492-time-needed-to-inform-all-employees) |
@@ -81,6 +84,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0110-balanced-binary-tree](https://github.com/abhay-053/-CrackYourPlacement/tree/master/0110-balanced-binary-tree) |
 | [0112-path-sum](https://github.com/abhay-053/-CrackYourPlacement/tree/master/0112-path-sum) |
 | [0404-sum-of-left-leaves](https://github.com/abhay-053/-CrackYourPlacement/tree/master/0404-sum-of-left-leaves) |
+| [0530-minimum-absolute-difference-in-bst](https://github.com/abhay-053/-CrackYourPlacement/tree/master/0530-minimum-absolute-difference-in-bst) |
 | [0543-diameter-of-binary-tree](https://github.com/abhay-053/-CrackYourPlacement/tree/master/0543-diameter-of-binary-tree) |
 | [0893-all-nodes-distance-k-in-binary-tree](https://github.com/abhay-053/-CrackYourPlacement/tree/master/0893-all-nodes-distance-k-in-binary-tree) |
 | [1653-number-of-good-leaf-nodes-pairs](https://github.com/abhay-053/-CrackYourPlacement/tree/master/1653-number-of-good-leaf-nodes-pairs) |
@@ -216,4 +220,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [1456-find-the-city-with-the-smallest-number-of-neighbors-at-a-threshold-distance](https://github.com/abhay-053/-CrackYourPlacement/tree/master/1456-find-the-city-with-the-smallest-number-of-neighbors-at-a-threshold-distance) |
+## Binary Search Tree
+|  |
+| ------- |
+| [0530-minimum-absolute-difference-in-bst](https://github.com/abhay-053/-CrackYourPlacement/tree/master/0530-minimum-absolute-difference-in-bst) |
 <!---LeetCode Topics End-->
