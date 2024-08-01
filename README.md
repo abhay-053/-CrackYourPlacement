@@ -12,6 +12,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0054-spiral-matrix](https://github.com/abhay-053/-CrackYourPlacement/tree/master/0054-spiral-matrix) |
 | [0055-jump-game](https://github.com/abhay-053/-CrackYourPlacement/tree/master/0055-jump-game) |
 | [0075-sort-colors](https://github.com/abhay-053/-CrackYourPlacement/tree/master/0075-sort-colors) |
+| [0078-subsets](https://github.com/abhay-053/-CrackYourPlacement/tree/master/0078-subsets) |
 | [0088-merge-sorted-array](https://github.com/abhay-053/-CrackYourPlacement/tree/master/0088-merge-sorted-array) |
 | [0090-subsets-ii](https://github.com/abhay-053/-CrackYourPlacement/tree/master/0090-subsets-ii) |
 | [0108-convert-sorted-array-to-binary-search-tree](https://github.com/abhay-053/-CrackYourPlacement/tree/master/0108-convert-sorted-array-to-binary-search-tree) |
@@ -205,6 +206,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0067-add-binary](https://github.com/abhay-053/-CrackYourPlacement/tree/master/0067-add-binary) |
+| [0078-subsets](https://github.com/abhay-053/-CrackYourPlacement/tree/master/0078-subsets) |
 | [0090-subsets-ii](https://github.com/abhay-053/-CrackYourPlacement/tree/master/0090-subsets-ii) |
 | [0287-find-the-duplicate-number](https://github.com/abhay-053/-CrackYourPlacement/tree/master/0287-find-the-duplicate-number) |
 ## String Matching
@@ -262,6 +264,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0040-combination-sum-ii](https://github.com/abhay-053/-CrackYourPlacement/tree/master/0040-combination-sum-ii) |
 | [0077-combinations](https://github.com/abhay-053/-CrackYourPlacement/tree/master/0077-combinations) |
+| [0078-subsets](https://github.com/abhay-053/-CrackYourPlacement/tree/master/0078-subsets) |
 | [0090-subsets-ii](https://github.com/abhay-053/-CrackYourPlacement/tree/master/0090-subsets-ii) |
 | [0257-binary-tree-paths](https://github.com/abhay-053/-CrackYourPlacement/tree/master/0257-binary-tree-paths) |
 <!---LeetCode Topics End-->
