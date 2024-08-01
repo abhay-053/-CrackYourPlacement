@@ -259,5 +259,6 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0040-combination-sum-ii](https://github.com/abhay-053/-CrackYourPlacement/tree/master/0040-combination-sum-ii) |
+| [0077-combinations](https://github.com/abhay-053/-CrackYourPlacement/tree/master/0077-combinations) |
 | [0257-binary-tree-paths](https://github.com/abhay-053/-CrackYourPlacement/tree/master/0257-binary-tree-paths) |
 <!---LeetCode Topics End-->
