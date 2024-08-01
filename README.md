@@ -167,6 +167,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0020-valid-parentheses](https://github.com/abhay-053/-CrackYourPlacement/tree/master/0020-valid-parentheses) |
+| [0232-implement-queue-using-stacks](https://github.com/abhay-053/-CrackYourPlacement/tree/master/0232-implement-queue-using-stacks) |
 | [0394-decode-string](https://github.com/abhay-053/-CrackYourPlacement/tree/master/0394-decode-string) |
 | [1756-minimum-deletions-to-make-string-balanced](https://github.com/abhay-053/-CrackYourPlacement/tree/master/1756-minimum-deletions-to-make-string-balanced) |
 ## Recursion
@@ -267,4 +268,12 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0078-subsets](https://github.com/abhay-053/-CrackYourPlacement/tree/master/0078-subsets) |
 | [0090-subsets-ii](https://github.com/abhay-053/-CrackYourPlacement/tree/master/0090-subsets-ii) |
 | [0257-binary-tree-paths](https://github.com/abhay-053/-CrackYourPlacement/tree/master/0257-binary-tree-paths) |
+## Design
+|  |
+| ------- |
+| [0232-implement-queue-using-stacks](https://github.com/abhay-053/-CrackYourPlacement/tree/master/0232-implement-queue-using-stacks) |
+## Queue
+|  |
+| ------- |
+| [0232-implement-queue-using-stacks](https://github.com/abhay-053/-CrackYourPlacement/tree/master/0232-implement-queue-using-stacks) |
 <!---LeetCode Topics End-->
