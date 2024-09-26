@@ -30,6 +30,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0322-coin-change](https://github.com/abhay-053/-CrackYourPlacement/tree/master/0322-coin-change) |
 | [0442-find-all-duplicates-in-an-array](https://github.com/abhay-053/-CrackYourPlacement/tree/master/0442-find-all-duplicates-in-an-array) |
 | [0628-maximum-product-of-three-numbers](https://github.com/abhay-053/-CrackYourPlacement/tree/master/0628-maximum-product-of-three-numbers) |
+| [0729-my-calendar-i](https://github.com/abhay-053/-CrackYourPlacement/tree/master/0729-my-calendar-i) |
 | [0733-flood-fill](https://github.com/abhay-053/-CrackYourPlacement/tree/master/0733-flood-fill) |
 | [0971-shortest-bridge](https://github.com/abhay-053/-CrackYourPlacement/tree/master/0971-shortest-bridge) |
 | [0999-regions-cut-by-slashes](https://github.com/abhay-053/-CrackYourPlacement/tree/master/0999-regions-cut-by-slashes) |
@@ -263,6 +264,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0287-find-the-duplicate-number](https://github.com/abhay-053/-CrackYourPlacement/tree/master/0287-find-the-duplicate-number) |
 | [0300-longest-increasing-subsequence](https://github.com/abhay-053/-CrackYourPlacement/tree/master/0300-longest-increasing-subsequence) |
+| [0729-my-calendar-i](https://github.com/abhay-053/-CrackYourPlacement/tree/master/0729-my-calendar-i) |
 ## Bit Manipulation
 |  |
 | ------- |
@@ -348,6 +350,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0173-binary-search-tree-iterator](https://github.com/abhay-053/-CrackYourPlacement/tree/master/0173-binary-search-tree-iterator) |
 | [0232-implement-queue-using-stacks](https://github.com/abhay-053/-CrackYourPlacement/tree/master/0232-implement-queue-using-stacks) |
 | [0303-range-sum-query-immutable](https://github.com/abhay-053/-CrackYourPlacement/tree/master/0303-range-sum-query-immutable) |
+| [0729-my-calendar-i](https://github.com/abhay-053/-CrackYourPlacement/tree/master/0729-my-calendar-i) |
 ## Queue
 |  |
 | ------- |
@@ -369,4 +372,12 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [2494-sum-of-prefix-scores-of-strings](https://github.com/abhay-053/-CrackYourPlacement/tree/master/2494-sum-of-prefix-scores-of-strings) |
 | [2755-extra-characters-in-a-string](https://github.com/abhay-053/-CrackYourPlacement/tree/master/2755-extra-characters-in-a-string) |
+## Segment Tree
+|  |
+| ------- |
+| [0729-my-calendar-i](https://github.com/abhay-053/-CrackYourPlacement/tree/master/0729-my-calendar-i) |
+## Ordered Set
+|  |
+| ------- |
+| [0729-my-calendar-i](https://github.com/abhay-053/-CrackYourPlacement/tree/master/0729-my-calendar-i) |
 <!---LeetCode Topics End-->
