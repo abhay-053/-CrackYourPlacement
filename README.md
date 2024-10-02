@@ -35,6 +35,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0971-shortest-bridge](https://github.com/abhay-053/-CrackYourPlacement/tree/master/0971-shortest-bridge) |
 | [0999-regions-cut-by-slashes](https://github.com/abhay-053/-CrackYourPlacement/tree/master/0999-regions-cut-by-slashes) |
 | [1496-lucky-numbers-in-a-matrix](https://github.com/abhay-053/-CrackYourPlacement/tree/master/1496-lucky-numbers-in-a-matrix) |
+| [1620-check-if-array-pairs-are-divisible-by-k](https://github.com/abhay-053/-CrackYourPlacement/tree/master/1620-check-if-array-pairs-are-divisible-by-k) |
 | [1866-restore-the-array-from-adjacent-pairs](https://github.com/abhay-053/-CrackYourPlacement/tree/master/1866-restore-the-array-from-adjacent-pairs) |
 | [2035-count-sub-islands](https://github.com/abhay-053/-CrackYourPlacement/tree/master/2035-count-sub-islands) |
 | [2494-sum-of-prefix-scores-of-strings](https://github.com/abhay-053/-CrackYourPlacement/tree/master/2494-sum-of-prefix-scores-of-strings) |
@@ -200,6 +201,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0893-all-nodes-distance-k-in-binary-tree](https://github.com/abhay-053/-CrackYourPlacement/tree/master/0893-all-nodes-distance-k-in-binary-tree) |
 | [0984-most-stones-removed-with-same-row-or-column](https://github.com/abhay-053/-CrackYourPlacement/tree/master/0984-most-stones-removed-with-same-row-or-column) |
 | [0999-regions-cut-by-slashes](https://github.com/abhay-053/-CrackYourPlacement/tree/master/0999-regions-cut-by-slashes) |
+| [1620-check-if-array-pairs-are-divisible-by-k](https://github.com/abhay-053/-CrackYourPlacement/tree/master/1620-check-if-array-pairs-are-divisible-by-k) |
 | [1866-restore-the-array-from-adjacent-pairs](https://github.com/abhay-053/-CrackYourPlacement/tree/master/1866-restore-the-array-from-adjacent-pairs) |
 | [2755-extra-characters-in-a-string](https://github.com/abhay-053/-CrackYourPlacement/tree/master/2755-extra-characters-in-a-string) |
 | [3276-minimum-number-of-pushes-to-type-word-ii](https://github.com/abhay-053/-CrackYourPlacement/tree/master/3276-minimum-number-of-pushes-to-type-word-ii) |
@@ -292,6 +294,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0169-majority-element](https://github.com/abhay-053/-CrackYourPlacement/tree/master/0169-majority-element) |
+| [1620-check-if-array-pairs-are-divisible-by-k](https://github.com/abhay-053/-CrackYourPlacement/tree/master/1620-check-if-array-pairs-are-divisible-by-k) |
 | [2494-sum-of-prefix-scores-of-strings](https://github.com/abhay-053/-CrackYourPlacement/tree/master/2494-sum-of-prefix-scores-of-strings) |
 | [3276-minimum-number-of-pushes-to-type-word-ii](https://github.com/abhay-053/-CrackYourPlacement/tree/master/3276-minimum-number-of-pushes-to-type-word-ii) |
 ## Union Find
