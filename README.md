@@ -202,6 +202,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0984-most-stones-removed-with-same-row-or-column](https://github.com/abhay-053/-CrackYourPlacement/tree/master/0984-most-stones-removed-with-same-row-or-column) |
 | [0999-regions-cut-by-slashes](https://github.com/abhay-053/-CrackYourPlacement/tree/master/0999-regions-cut-by-slashes) |
 | [1620-check-if-array-pairs-are-divisible-by-k](https://github.com/abhay-053/-CrackYourPlacement/tree/master/1620-check-if-array-pairs-are-divisible-by-k) |
+| [1715-split-a-string-into-the-max-number-of-unique-substrings](https://github.com/abhay-053/-CrackYourPlacement/tree/master/1715-split-a-string-into-the-max-number-of-unique-substrings) |
 | [1866-restore-the-array-from-adjacent-pairs](https://github.com/abhay-053/-CrackYourPlacement/tree/master/1866-restore-the-array-from-adjacent-pairs) |
 | [2755-extra-characters-in-a-string](https://github.com/abhay-053/-CrackYourPlacement/tree/master/2755-extra-characters-in-a-string) |
 | [3276-minimum-number-of-pushes-to-type-word-ii](https://github.com/abhay-053/-CrackYourPlacement/tree/master/3276-minimum-number-of-pushes-to-type-word-ii) |
@@ -215,6 +216,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0394-decode-string](https://github.com/abhay-053/-CrackYourPlacement/tree/master/0394-decode-string) |
 | [0564-find-the-closest-palindrome](https://github.com/abhay-053/-CrackYourPlacement/tree/master/0564-find-the-closest-palindrome) |
 | [1197-parsing-a-boolean-expression](https://github.com/abhay-053/-CrackYourPlacement/tree/master/1197-parsing-a-boolean-expression) |
+| [1715-split-a-string-into-the-max-number-of-unique-substrings](https://github.com/abhay-053/-CrackYourPlacement/tree/master/1715-split-a-string-into-the-max-number-of-unique-substrings) |
 | [1756-minimum-deletions-to-make-string-balanced](https://github.com/abhay-053/-CrackYourPlacement/tree/master/1756-minimum-deletions-to-make-string-balanced) |
 | [2494-sum-of-prefix-scores-of-strings](https://github.com/abhay-053/-CrackYourPlacement/tree/master/2494-sum-of-prefix-scores-of-strings) |
 | [2755-extra-characters-in-a-string](https://github.com/abhay-053/-CrackYourPlacement/tree/master/2755-extra-characters-in-a-string) |
@@ -350,6 +352,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0078-subsets](https://github.com/abhay-053/-CrackYourPlacement/tree/master/0078-subsets) |
 | [0090-subsets-ii](https://github.com/abhay-053/-CrackYourPlacement/tree/master/0090-subsets-ii) |
 | [0257-binary-tree-paths](https://github.com/abhay-053/-CrackYourPlacement/tree/master/0257-binary-tree-paths) |
+| [1715-split-a-string-into-the-max-number-of-unique-substrings](https://github.com/abhay-053/-CrackYourPlacement/tree/master/1715-split-a-string-into-the-max-number-of-unique-substrings) |
 ## Design
 |  |
 | ------- |
