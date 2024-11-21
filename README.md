@@ -40,6 +40,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1866-restore-the-array-from-adjacent-pairs](https://github.com/abhay-053/-CrackYourPlacement/tree/master/1866-restore-the-array-from-adjacent-pairs) |
 | [1940-maximum-xor-for-each-query](https://github.com/abhay-053/-CrackYourPlacement/tree/master/1940-maximum-xor-for-each-query) |
 | [2035-count-sub-islands](https://github.com/abhay-053/-CrackYourPlacement/tree/master/2035-count-sub-islands) |
+| [2343-count-unguarded-cells-in-the-grid](https://github.com/abhay-053/-CrackYourPlacement/tree/master/2343-count-unguarded-cells-in-the-grid) |
 | [2494-sum-of-prefix-scores-of-strings](https://github.com/abhay-053/-CrackYourPlacement/tree/master/2494-sum-of-prefix-scores-of-strings) |
 | [2755-extra-characters-in-a-string](https://github.com/abhay-053/-CrackYourPlacement/tree/master/2755-extra-characters-in-a-string) |
 ## Depth-First Search
@@ -103,6 +104,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0999-regions-cut-by-slashes](https://github.com/abhay-053/-CrackYourPlacement/tree/master/0999-regions-cut-by-slashes) |
 | [1496-lucky-numbers-in-a-matrix](https://github.com/abhay-053/-CrackYourPlacement/tree/master/1496-lucky-numbers-in-a-matrix) |
 | [2035-count-sub-islands](https://github.com/abhay-053/-CrackYourPlacement/tree/master/2035-count-sub-islands) |
+| [2343-count-unguarded-cells-in-the-grid](https://github.com/abhay-053/-CrackYourPlacement/tree/master/2343-count-unguarded-cells-in-the-grid) |
 ## Tree
 |  |
 | ------- |
@@ -293,6 +295,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0054-spiral-matrix](https://github.com/abhay-053/-CrackYourPlacement/tree/master/0054-spiral-matrix) |
 | [0067-add-binary](https://github.com/abhay-053/-CrackYourPlacement/tree/master/0067-add-binary) |
+| [2343-count-unguarded-cells-in-the-grid](https://github.com/abhay-053/-CrackYourPlacement/tree/master/2343-count-unguarded-cells-in-the-grid) |
 ## Greedy
 |  |
 | ------- |
