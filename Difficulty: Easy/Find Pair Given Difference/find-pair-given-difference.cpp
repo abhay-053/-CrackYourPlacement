@@ -25,21 +25,21 @@ class Array {
 
 class Solution {
   public:
-    int findPair(int n, int x, vector<int> &arr) {
-        unordered_map<int,int> a;
-        for(int i:arr)
-            a[i]++;
-        for(auto i:a)
-        {
-            if(x==0)
-            {    
-                if(i.second>1)
-                return 1;
-            }
-             else if(a.find(i.first+x)!=a.end())
-                return 1;
+    bool findPair(vector<int> &arr, int x) {
+        // code here
+        unordered_map<int,int> mp;
+        for(auto i:arr){
+            mp[i]++;
         }
-        return -1;
+        for(auto i: mp)
+        {
+            if(x==0 ){
+                if(i.second>1)return true;}
+            else if(mp.find(x + i.first) != mp.end()){
+                return true;
+            }
+        }
+        return false;
     }
 };
 
@@ -47,23 +47,26 @@ class Solution {
 //{ Driver Code Starts.
 
 int main() {
+
     int t;
     scanf("%d ", &t);
+
     while (t--) {
 
-        int n;
-        scanf("%d", &n);
-
-        int x;
-        scanf("%d", &x);
-
-        vector<int> arr(n);
-        Array::input(arr, n);
-
+        vector<int> arr;
+        string input;
+        getline(cin, input);
+        stringstream ss(input);
+        int number;
+        while (ss >> number) {
+            arr.push_back(number);
+        }
+        int k;
+        scanf("%d ", &k);
         Solution obj;
-        int res = obj.findPair(n, x, arr);
 
-        cout << res << endl;
+        cout << (obj.findPair(arr, k) ? "true" : "false") << endl;
+        cout << "~" << endl;
     }
 }
 
