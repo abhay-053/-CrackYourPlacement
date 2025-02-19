@@ -2,47 +2,51 @@
 #include <bits/stdc++.h>
 using namespace std;
 
+
 // } Driver Code Ends
 class Solution {
   public:
     // Function to detect cycle in an undirected graph.
-    
-    bool bfs(int u, vector<int> adj[], vector<bool>& vis)
+    bool dfs(unordered_map<int, vector<int>>&mp, int node, vector<bool>&vis, int parent)
     {
-        
-        queue<pair<int,int>> q;
-        q.push({u,-1});
-        vis[u] = true;
-        while(!q.empty())
+        vis[node]  = true;
+        for(auto adjnode : mp[node])
         {
-            int u = q.front().first;
-            int p = q.front().second;
-            q.pop();
-            for(auto v : adj[u])
+            if(!vis[adjnode])
             {
-                if(!vis[v])
-                {
-                    q.push({v,u});
-                    vis[v] = true;
-                }
-                else if(v!=p)
-                {
+                if(dfs(mp, adjnode, vis, node) == true){
                     return true;
                 }
             }
-            
+            else if (parent != adjnode)
+            {
+                return true;
+            }
         }
         return false;
     }
-    bool isCycle(int V, vector<int> adj[]) {
-       vector<bool> vis(V,false);
-       
-       for(int i=0;i<V;i++)
-       {
-           if(!vis[i] && bfs(i,adj,vis))
-            return true;
-       }
-       return false;
+    bool isCycle(vector<vector<int>>& adj) {
+        unordered_map<int, vector<int>>mp;
+        for(int i=0;i<adj.size();i++)
+        {
+            for(auto j : adj[i])
+            {
+                mp[i].push_back(j);
+            }
+        }
+        
+        vector<bool>vis(adj.size(),false);
+        for(int i=0;i<adj.size();i++)
+        {
+            if(!vis[i])
+            {
+                if(dfs(mp, i, vis,-1) == true){
+                    return true;
+                }
+                
+            }
+        }
+        return false;
     }
 };
 
@@ -53,7 +57,7 @@ int main() {
     while (tc--) {
         int V, E;
         cin >> V >> E;
-        vector<int> adj[V];
+        vector<vector<int>> adj(V);
         for (int i = 0; i < E; i++) {
             int u, v;
             cin >> u >> v;
@@ -61,11 +65,14 @@ int main() {
             adj[v].push_back(u);
         }
         Solution obj;
-        bool ans = obj.isCycle(V, adj);
+        bool ans = obj.isCycle(adj);
         if (ans)
             cout << "1\n";
         else
             cout << "0\n";
+
+        cout << "~"
+             << "\n";
     }
     return 0;
 }
