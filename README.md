@@ -46,6 +46,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2494-sum-of-prefix-scores-of-strings](https://github.com/abhay-053/-CrackYourPlacement/tree/master/2494-sum-of-prefix-scores-of-strings) |
 | [2711-minimum-time-to-visit-a-cell-in-a-grid](https://github.com/abhay-053/-CrackYourPlacement/tree/master/2711-minimum-time-to-visit-a-cell-in-a-grid) |
 | [2755-extra-characters-in-a-string](https://github.com/abhay-053/-CrackYourPlacement/tree/master/2755-extra-characters-in-a-string) |
+| [3747-maximum-difference-between-adjacent-elements-in-a-circular-array](https://github.com/abhay-053/-CrackYourPlacement/tree/master/3747-maximum-difference-between-adjacent-elements-in-a-circular-array) |
 ## Depth-First Search
 |  |
 | ------- |
