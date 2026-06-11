@@ -12,7 +12,7 @@ public:
         }
     }
     long long binaryExponentiation(long long a, long long b){
-        int res = 1;
+        long long res = 1;
         
         while( b > 0){
 
@@ -28,8 +28,8 @@ public:
     }
     int assignEdgeWeights(vector<vector<int>>& edges) {
         unordered_map<int,vector<int>> graph;
-
-        for(auto i: edges){
+        maxDepth = 0;
+        for(auto &i: edges){
             int u = i[0];
             int v = i[1];
 
