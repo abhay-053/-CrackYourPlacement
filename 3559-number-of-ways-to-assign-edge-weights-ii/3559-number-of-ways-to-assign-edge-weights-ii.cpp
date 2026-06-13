@@ -103,6 +103,7 @@ public:
             if(u != v){
                 jump += 2;
             }
+            cout<<k<<endl;
             int totalWays = 0;
 
             totalWays = (totalWays +  binaryExponentiation(2ll, 1ll*(jump - 1)) ) % mod;
