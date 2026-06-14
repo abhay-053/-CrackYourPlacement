@@ -13,18 +13,15 @@ public:
             sort(units[i].begin(), units[i].end());
         }
 
-        int mini = INT_MAX;
+        int mini = INT_MAX, mini1 = INT_MAX;
         vector<int> arr;
         for(int  i = 0; i< units.size(); i++){
-            arr.push_back(max(units[i][0], units[i][1]));
-            mini = min(mini, min(units[i][0] , units[i][1]));
+            ans += units[i][1];
+            mini1 = min(mini1, units[i][1]);
+            mini = min(mini, units[i][0]);
         }
 
-        sort(arr.begin(), arr.end());
-        ans = mini;
-        for(int i = 1; i< arr.size(); i++){
-            ans += 1ll *arr[i];
-        }
+        ans =  ans - mini1 + mini;
         return ans;
     }
 };
