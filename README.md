@@ -82,6 +82,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1492-time-needed-to-inform-all-employees](https://github.com/abhay-053/-CrackYourPlacement/tree/master/1492-time-needed-to-inform-all-employees) |
 | [1653-number-of-good-leaf-nodes-pairs](https://github.com/abhay-053/-CrackYourPlacement/tree/master/1653-number-of-good-leaf-nodes-pairs) |
 | [2035-count-sub-islands](https://github.com/abhay-053/-CrackYourPlacement/tree/master/2035-count-sub-islands) |
+| [2192-all-ancestors-of-a-node-in-a-directed-acyclic-graph](https://github.com/abhay-053/-CrackYourPlacement/tree/master/2192-all-ancestors-of-a-node-in-a-directed-acyclic-graph) |
 | [2846-minimum-edge-weight-equilibrium-queries-in-a-tree](https://github.com/abhay-053/-CrackYourPlacement/tree/master/2846-minimum-edge-weight-equilibrium-queries-in-a-tree) |
 | [3558-number-of-ways-to-assign-edge-weights-i](https://github.com/abhay-053/-CrackYourPlacement/tree/master/3558-number-of-ways-to-assign-edge-weights-i) |
 | [3559-number-of-ways-to-assign-edge-weights-ii](https://github.com/abhay-053/-CrackYourPlacement/tree/master/3559-number-of-ways-to-assign-edge-weights-ii) |
@@ -107,6 +108,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1483-kth-ancestor-of-a-tree-node](https://github.com/abhay-053/-CrackYourPlacement/tree/master/1483-kth-ancestor-of-a-tree-node) |
 | [1492-time-needed-to-inform-all-employees](https://github.com/abhay-053/-CrackYourPlacement/tree/master/1492-time-needed-to-inform-all-employees) |
 | [2035-count-sub-islands](https://github.com/abhay-053/-CrackYourPlacement/tree/master/2035-count-sub-islands) |
+| [2192-all-ancestors-of-a-node-in-a-directed-acyclic-graph](https://github.com/abhay-053/-CrackYourPlacement/tree/master/2192-all-ancestors-of-a-node-in-a-directed-acyclic-graph) |
 | [2711-minimum-time-to-visit-a-cell-in-a-grid](https://github.com/abhay-053/-CrackYourPlacement/tree/master/2711-minimum-time-to-visit-a-cell-in-a-grid) |
 ## Matrix
 |  |
@@ -388,6 +390,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0820-find-eventual-safe-states](https://github.com/abhay-053/-CrackYourPlacement/tree/master/0820-find-eventual-safe-states) |
+| [2192-all-ancestors-of-a-node-in-a-directed-acyclic-graph](https://github.com/abhay-053/-CrackYourPlacement/tree/master/2192-all-ancestors-of-a-node-in-a-directed-acyclic-graph) |
 ## Shortest Path
 |  |
 | ------- |
@@ -453,4 +456,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0729-my-calendar-i](https://github.com/abhay-053/-CrackYourPlacement/tree/master/0729-my-calendar-i) |
+## Graph Theory
+|  |
+| ------- |
+| [2192-all-ancestors-of-a-node-in-a-directed-acyclic-graph](https://github.com/abhay-053/-CrackYourPlacement/tree/master/2192-all-ancestors-of-a-node-in-a-directed-acyclic-graph) |
 <!---LeetCode Topics End-->
