@@ -18,20 +18,22 @@ public:
         queue<pair<TreeNode*, long long>> q;
         q.push({root, 0});
         int ans = 1;
+        int first, last, size, idx;
         while(!q.empty()){
-            int size = q.size(); 
-            long long idx = q.front().second;
-            int first = -1;
-            int last = -1;
+            size = q.size(); 
+            idx = q.front().second;
+            first = -1;
+            last = -1;
             while(size --){
                 auto [node, i] = q.front();
                 q.pop();
 
-
                 i -= idx;
+
                 if(first == -1){
                     first = i;
                 }
+
                 if( node -> left){
                     q.push({node -> left, 2ll*i + 1});
                 }  
