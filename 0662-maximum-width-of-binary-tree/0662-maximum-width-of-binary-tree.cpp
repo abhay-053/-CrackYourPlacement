@@ -15,23 +15,31 @@ public:
         if(root == NULL){
             return 0;
         }
+
         queue<pair<TreeNode*, long long>> q;
         q.push({root, 0});
+
         int ans = 1;
         int first, last, size, idx;
+        
         while(!q.empty()){
+
             size = q.size(); 
             idx = q.front().second;
-            first = -1;
-            last = -1;
-            while(size --){
+
+            for(int ind = 0; ind < size; ind ++){
+
                 auto [node, i] = q.front();
                 q.pop();
 
                 i -= idx;
 
-                if(first == -1){
+                if(ind == 0){
                     first = i;
+                }
+
+                if(ind == size -1){
+                    last = i;
                 }
 
                 if( node -> left){
@@ -41,7 +49,6 @@ public:
                 if(node -> right){
                     q.push({node -> right, 2ll*i + 2});
                 }
-                last = i;
 
             }
             ans = max(ans, last - first + 1);
