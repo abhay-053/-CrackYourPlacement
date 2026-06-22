@@ -248,6 +248,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0893-all-nodes-distance-k-in-binary-tree](https://github.com/abhay-053/-CrackYourPlacement/tree/master/0893-all-nodes-distance-k-in-binary-tree) |
 | [0984-most-stones-removed-with-same-row-or-column](https://github.com/abhay-053/-CrackYourPlacement/tree/master/0984-most-stones-removed-with-same-row-or-column) |
 | [0999-regions-cut-by-slashes](https://github.com/abhay-053/-CrackYourPlacement/tree/master/0999-regions-cut-by-slashes) |
+| [1189-maximum-number-of-balloons](https://github.com/abhay-053/-CrackYourPlacement/tree/master/1189-maximum-number-of-balloons) |
 | [1468-check-if-n-and-its-double-exist](https://github.com/abhay-053/-CrackYourPlacement/tree/master/1468-check-if-n-and-its-double-exist) |
 | [1620-check-if-array-pairs-are-divisible-by-k](https://github.com/abhay-053/-CrackYourPlacement/tree/master/1620-check-if-array-pairs-are-divisible-by-k) |
 | [1715-split-a-string-into-the-max-number-of-unique-substrings](https://github.com/abhay-053/-CrackYourPlacement/tree/master/1715-split-a-string-into-the-max-number-of-unique-substrings) |
@@ -266,6 +267,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0394-decode-string](https://github.com/abhay-053/-CrackYourPlacement/tree/master/0394-decode-string) |
 | [0564-find-the-closest-palindrome](https://github.com/abhay-053/-CrackYourPlacement/tree/master/0564-find-the-closest-palindrome) |
 | [0902-numbers-at-most-n-given-digit-set](https://github.com/abhay-053/-CrackYourPlacement/tree/master/0902-numbers-at-most-n-given-digit-set) |
+| [1189-maximum-number-of-balloons](https://github.com/abhay-053/-CrackYourPlacement/tree/master/1189-maximum-number-of-balloons) |
 | [1197-parsing-a-boolean-expression](https://github.com/abhay-053/-CrackYourPlacement/tree/master/1197-parsing-a-boolean-expression) |
 | [1350-remove-sub-folders-from-the-filesystem](https://github.com/abhay-053/-CrackYourPlacement/tree/master/1350-remove-sub-folders-from-the-filesystem) |
 | [1566-check-if-a-word-occurs-as-a-prefix-of-any-word-in-a-sentence](https://github.com/abhay-053/-CrackYourPlacement/tree/master/1566-check-if-a-word-occurs-as-a-prefix-of-any-word-in-a-sentence) |
@@ -380,6 +382,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0169-majority-element](https://github.com/abhay-053/-CrackYourPlacement/tree/master/0169-majority-element) |
+| [1189-maximum-number-of-balloons](https://github.com/abhay-053/-CrackYourPlacement/tree/master/1189-maximum-number-of-balloons) |
 | [1620-check-if-array-pairs-are-divisible-by-k](https://github.com/abhay-053/-CrackYourPlacement/tree/master/1620-check-if-array-pairs-are-divisible-by-k) |
 | [2494-sum-of-prefix-scores-of-strings](https://github.com/abhay-053/-CrackYourPlacement/tree/master/2494-sum-of-prefix-scores-of-strings) |
 | [3276-minimum-number-of-pushes-to-type-word-ii](https://github.com/abhay-053/-CrackYourPlacement/tree/master/3276-minimum-number-of-pushes-to-type-word-ii) |
