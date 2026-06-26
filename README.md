@@ -29,6 +29,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0303-range-sum-query-immutable](https://github.com/abhay-053/-CrackYourPlacement/tree/master/0303-range-sum-query-immutable) |
 | [0322-coin-change](https://github.com/abhay-053/-CrackYourPlacement/tree/master/0322-coin-change) |
 | [0442-find-all-duplicates-in-an-array](https://github.com/abhay-053/-CrackYourPlacement/tree/master/0442-find-all-duplicates-in-an-array) |
+| [0525-contiguous-array](https://github.com/abhay-053/-CrackYourPlacement/tree/master/0525-contiguous-array) |
 | [0628-maximum-product-of-three-numbers](https://github.com/abhay-053/-CrackYourPlacement/tree/master/0628-maximum-product-of-three-numbers) |
 | [0729-my-calendar-i](https://github.com/abhay-053/-CrackYourPlacement/tree/master/0729-my-calendar-i) |
 | [0733-flood-fill](https://github.com/abhay-053/-CrackYourPlacement/tree/master/0733-flood-fill) |
@@ -250,6 +251,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0141-linked-list-cycle](https://github.com/abhay-053/-CrackYourPlacement/tree/master/0141-linked-list-cycle) |
 | [0169-majority-element](https://github.com/abhay-053/-CrackYourPlacement/tree/master/0169-majority-element) |
 | [0442-find-all-duplicates-in-an-array](https://github.com/abhay-053/-CrackYourPlacement/tree/master/0442-find-all-duplicates-in-an-array) |
+| [0525-contiguous-array](https://github.com/abhay-053/-CrackYourPlacement/tree/master/0525-contiguous-array) |
 | [0893-all-nodes-distance-k-in-binary-tree](https://github.com/abhay-053/-CrackYourPlacement/tree/master/0893-all-nodes-distance-k-in-binary-tree) |
 | [0984-most-stones-removed-with-same-row-or-column](https://github.com/abhay-053/-CrackYourPlacement/tree/master/0984-most-stones-removed-with-same-row-or-column) |
 | [0999-regions-cut-by-slashes](https://github.com/abhay-053/-CrackYourPlacement/tree/master/0999-regions-cut-by-slashes) |
@@ -468,6 +470,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0303-range-sum-query-immutable](https://github.com/abhay-053/-CrackYourPlacement/tree/master/0303-range-sum-query-immutable) |
+| [0525-contiguous-array](https://github.com/abhay-053/-CrackYourPlacement/tree/master/0525-contiguous-array) |
 | [1732-find-the-highest-altitude](https://github.com/abhay-053/-CrackYourPlacement/tree/master/1732-find-the-highest-altitude) |
 | [1940-maximum-xor-for-each-query](https://github.com/abhay-053/-CrackYourPlacement/tree/master/1940-maximum-xor-for-each-query) |
 | [3699-number-of-zigzag-arrays-i](https://github.com/abhay-053/-CrackYourPlacement/tree/master/3699-number-of-zigzag-arrays-i) |
