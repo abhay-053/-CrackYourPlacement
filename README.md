@@ -54,6 +54,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2711-minimum-time-to-visit-a-cell-in-a-grid](https://github.com/abhay-053/-CrackYourPlacement/tree/master/2711-minimum-time-to-visit-a-cell-in-a-grid) |
 | [2755-extra-characters-in-a-string](https://github.com/abhay-053/-CrackYourPlacement/tree/master/2755-extra-characters-in-a-string) |
 | [2846-minimum-edge-weight-equilibrium-queries-in-a-tree](https://github.com/abhay-053/-CrackYourPlacement/tree/master/2846-minimum-edge-weight-equilibrium-queries-in-a-tree) |
+| [3020-find-the-maximum-number-of-elements-in-subset](https://github.com/abhay-053/-CrackYourPlacement/tree/master/3020-find-the-maximum-number-of-elements-in-subset) |
 | [3559-number-of-ways-to-assign-edge-weights-ii](https://github.com/abhay-053/-CrackYourPlacement/tree/master/3559-number-of-ways-to-assign-edge-weights-ii) |
 | [3737-count-subarrays-with-majority-element-i](https://github.com/abhay-053/-CrackYourPlacement/tree/master/3737-count-subarrays-with-majority-element-i) |
 | [3739-count-subarrays-with-majority-element-ii](https://github.com/abhay-053/-CrackYourPlacement/tree/master/3739-count-subarrays-with-majority-element-ii) |
@@ -263,6 +264,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1715-split-a-string-into-the-max-number-of-unique-substrings](https://github.com/abhay-053/-CrackYourPlacement/tree/master/1715-split-a-string-into-the-max-number-of-unique-substrings) |
 | [1866-restore-the-array-from-adjacent-pairs](https://github.com/abhay-053/-CrackYourPlacement/tree/master/1866-restore-the-array-from-adjacent-pairs) |
 | [2755-extra-characters-in-a-string](https://github.com/abhay-053/-CrackYourPlacement/tree/master/2755-extra-characters-in-a-string) |
+| [3020-find-the-maximum-number-of-elements-in-subset](https://github.com/abhay-053/-CrackYourPlacement/tree/master/3020-find-the-maximum-number-of-elements-in-subset) |
 | [3276-minimum-number-of-pushes-to-type-word-ii](https://github.com/abhay-053/-CrackYourPlacement/tree/master/3276-minimum-number-of-pushes-to-type-word-ii) |
 | [3737-count-subarrays-with-majority-element-i](https://github.com/abhay-053/-CrackYourPlacement/tree/master/3737-count-subarrays-with-majority-element-i) |
 | [3739-count-subarrays-with-majority-element-ii](https://github.com/abhay-053/-CrackYourPlacement/tree/master/3739-count-subarrays-with-majority-element-ii) |
@@ -522,4 +524,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0307-range-sum-query-mutable](https://github.com/abhay-053/-CrackYourPlacement/tree/master/0307-range-sum-query-mutable) |
+## Enumeration
+|  |
+| ------- |
+| [3020-find-the-maximum-number-of-elements-in-subset](https://github.com/abhay-053/-CrackYourPlacement/tree/master/3020-find-the-maximum-number-of-elements-in-subset) |
 <!---LeetCode Topics End-->
