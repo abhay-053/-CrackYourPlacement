@@ -58,6 +58,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2812-find-the-safest-path-in-a-grid](https://github.com/abhay-053/-CrackYourPlacement/tree/master/2812-find-the-safest-path-in-a-grid) |
 | [2846-minimum-edge-weight-equilibrium-queries-in-a-tree](https://github.com/abhay-053/-CrackYourPlacement/tree/master/2846-minimum-edge-weight-equilibrium-queries-in-a-tree) |
 | [3020-find-the-maximum-number-of-elements-in-subset](https://github.com/abhay-053/-CrackYourPlacement/tree/master/3020-find-the-maximum-number-of-elements-in-subset) |
+| [3286-find-a-safe-walk-through-a-grid](https://github.com/abhay-053/-CrackYourPlacement/tree/master/3286-find-a-safe-walk-through-a-grid) |
 | [3559-number-of-ways-to-assign-edge-weights-ii](https://github.com/abhay-053/-CrackYourPlacement/tree/master/3559-number-of-ways-to-assign-edge-weights-ii) |
 | [3737-count-subarrays-with-majority-element-i](https://github.com/abhay-053/-CrackYourPlacement/tree/master/3737-count-subarrays-with-majority-element-i) |
 | [3739-count-subarrays-with-majority-element-ii](https://github.com/abhay-053/-CrackYourPlacement/tree/master/3739-count-subarrays-with-majority-element-ii) |
@@ -125,6 +126,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2192-all-ancestors-of-a-node-in-a-directed-acyclic-graph](https://github.com/abhay-053/-CrackYourPlacement/tree/master/2192-all-ancestors-of-a-node-in-a-directed-acyclic-graph) |
 | [2711-minimum-time-to-visit-a-cell-in-a-grid](https://github.com/abhay-053/-CrackYourPlacement/tree/master/2711-minimum-time-to-visit-a-cell-in-a-grid) |
 | [2812-find-the-safest-path-in-a-grid](https://github.com/abhay-053/-CrackYourPlacement/tree/master/2812-find-the-safest-path-in-a-grid) |
+| [3286-find-a-safe-walk-through-a-grid](https://github.com/abhay-053/-CrackYourPlacement/tree/master/3286-find-a-safe-walk-through-a-grid) |
 ## Matrix
 |  |
 | ------- |
@@ -138,6 +140,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2343-count-unguarded-cells-in-the-grid](https://github.com/abhay-053/-CrackYourPlacement/tree/master/2343-count-unguarded-cells-in-the-grid) |
 | [2711-minimum-time-to-visit-a-cell-in-a-grid](https://github.com/abhay-053/-CrackYourPlacement/tree/master/2711-minimum-time-to-visit-a-cell-in-a-grid) |
 | [2812-find-the-safest-path-in-a-grid](https://github.com/abhay-053/-CrackYourPlacement/tree/master/2812-find-the-safest-path-in-a-grid) |
+| [3286-find-a-safe-walk-through-a-grid](https://github.com/abhay-053/-CrackYourPlacement/tree/master/3286-find-a-safe-walk-through-a-grid) |
 ## Tree
 |  |
 | ------- |
@@ -227,6 +230,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0215-kth-largest-element-in-an-array](https://github.com/abhay-053/-CrackYourPlacement/tree/master/0215-kth-largest-element-in-an-array) |
 | [2711-minimum-time-to-visit-a-cell-in-a-grid](https://github.com/abhay-053/-CrackYourPlacement/tree/master/2711-minimum-time-to-visit-a-cell-in-a-grid) |
 | [2812-find-the-safest-path-in-a-grid](https://github.com/abhay-053/-CrackYourPlacement/tree/master/2812-find-the-safest-path-in-a-grid) |
+| [3286-find-a-safe-walk-through-a-grid](https://github.com/abhay-053/-CrackYourPlacement/tree/master/3286-find-a-safe-walk-through-a-grid) |
 ## Quickselect
 |  |
 | ------- |
@@ -449,6 +453,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1456-find-the-city-with-the-smallest-number-of-neighbors-at-a-threshold-distance](https://github.com/abhay-053/-CrackYourPlacement/tree/master/1456-find-the-city-with-the-smallest-number-of-neighbors-at-a-threshold-distance) |
 | [1976-number-of-ways-to-arrive-at-destination](https://github.com/abhay-053/-CrackYourPlacement/tree/master/1976-number-of-ways-to-arrive-at-destination) |
 | [2711-minimum-time-to-visit-a-cell-in-a-grid](https://github.com/abhay-053/-CrackYourPlacement/tree/master/2711-minimum-time-to-visit-a-cell-in-a-grid) |
+| [3286-find-a-safe-walk-through-a-grid](https://github.com/abhay-053/-CrackYourPlacement/tree/master/3286-find-a-safe-walk-through-a-grid) |
 ## Binary Search Tree
 |  |
 | ------- |
@@ -523,6 +528,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [1976-number-of-ways-to-arrive-at-destination](https://github.com/abhay-053/-CrackYourPlacement/tree/master/1976-number-of-ways-to-arrive-at-destination) |
 | [2192-all-ancestors-of-a-node-in-a-directed-acyclic-graph](https://github.com/abhay-053/-CrackYourPlacement/tree/master/2192-all-ancestors-of-a-node-in-a-directed-acyclic-graph) |
+| [3286-find-a-safe-walk-through-a-grid](https://github.com/abhay-053/-CrackYourPlacement/tree/master/3286-find-a-safe-walk-through-a-grid) |
 ## Counting Sort
 |  |
 | ------- |
