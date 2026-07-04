@@ -1,41 +1,42 @@
 class Solution {
 public:
-    typedef pair<long long, int> P;
     typedef long long ll;
 
-	bool check(int mid, int n, ll k, unordered_map<int, vector<vector<int>>>& adj) {
-        vector<ll> result(n, LLONG_MAX);
+	bool isPossible(int mid, int n, unordered_map<int, vector<vector<int>>>& graph, ll k) {
 
-        priority_queue<P, vector<P>, greater<P>> pq;
-
-        result[0] = 0;
+        priority_queue<pair<ll, int>, vector<pair<ll, int>> , greater<pair<ll, int>>> pq;
 
         pq.push({0, 0});
-
-        while(!pq.empty()) {
-            ll d     = pq.top().first;
-            int node = pq.top().second;
+        vector<ll> dis(n+1, LLONG_MAX);
+        dis[0] = 0;
+        while(!pq.empty()){
+            auto [ct, node] = pq.top();
             pq.pop();
 
-            if(d > k) 
+
+            if(ct > k){
                 return false;
+            }
 
-            if(node == n - 1) 
+            if(node == n - 1){
                 return true;
+            }
 
-            if(d > result[node]) 
+            if(ct > dis[node]){
                 continue;
+            }
+            
+            for(auto nei: graph[node]){
+                int nd = nei[0];
+                long long cost = nei[1];
 
-            for(auto &vec : adj[node]) {
-                int adjNode  = vec[0];
-                int edgeCost = vec[1];
-
-                if(edgeCost < mid)  
+                if(cost < mid){
                     continue;
+                }
 
-                if(d + edgeCost < result[adjNode]) {
-                    result[adjNode] = d + edgeCost;
-                    pq.push({d + edgeCost, adjNode});
+                if(dis[nd] > ct + cost){
+                    dis[nd] = ct + cost;
+                    pq.push({dis[nd], nd});
                 }
             }
         }
@@ -45,7 +46,7 @@ public:
 
 	int findMaxPathScore(vector<vector<int>>& edges, vector<bool>& online, ll k) {
 		int n = online.size();
-        unordered_map<int, vector<vector<int>>> adj;
+        unordered_map<int, vector<vector<int>>> graph;
 
 		int l = INT_MAX, r = 0;
 
@@ -57,23 +58,23 @@ public:
 		    if(!online[u] || !online[v]) 
                 continue;
                 
-		    adj[u].push_back({v, w});
+		    graph[u].push_back({v, w});
 		    l = min(l, w);
 		    r = max(r, w);
 		}
 
         int answer = -1;
 
-		while(l <= r) {
-		    int mid = l + (r - l) / 2;
+        while( l<= r){
+            int mid = l + (r-l )/2;
 
-		    if(check(mid, n, k, adj)) {
-                answer = mid;
+            if(isPossible(mid, n, graph, k)){
+                answer = mid; 
                 l = mid + 1;
             } else {
                 r = mid - 1;
             }
-		}
+        }
 
 		return answer;
 	}
