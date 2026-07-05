@@ -55,7 +55,7 @@ public:
                         dp[i][j].second = (dp[i][j+1].second + dp[i+1][j].second) % MOD;
                     }
                     
-                } else if(dp[i+1][j].first > dp[i+1][j+1].first) {
+                } else if(dp[i+1][j].first < dp[i+1][j+1].first) {
                     if(dp[i+1][j+1].first > dp[i][j+1].first){
                         dp[i][j].first = dp[i+1][j+1].first + arr[i][j];
                         dp[i][j].second = dp[i+1][j+1].second;
