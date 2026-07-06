@@ -38,8 +38,7 @@ public:
     }
     int maxValue(vector<vector<int>>& events, int k) {
         size = events.size(); 
-
-        size1 = 1e6 / size + 20;
+        size1 = (1e6/size) + (1000006 % size);
         sort(events.begin(), events.end());
         dp.resize(size, vector<int>(size1, -1));
         return solve(events, 0, k);
