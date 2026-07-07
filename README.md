@@ -43,6 +43,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1288-remove-covered-intervals](https://github.com/abhay-053/-CrackYourPlacement/tree/master/1288-remove-covered-intervals) |
 | [1301-number-of-paths-with-max-score](https://github.com/abhay-053/-CrackYourPlacement/tree/master/1301-number-of-paths-with-max-score) |
 | [1350-remove-sub-folders-from-the-filesystem](https://github.com/abhay-053/-CrackYourPlacement/tree/master/1350-remove-sub-folders-from-the-filesystem) |
+| [1463-cherry-pickup-ii](https://github.com/abhay-053/-CrackYourPlacement/tree/master/1463-cherry-pickup-ii) |
 | [1468-check-if-n-and-its-double-exist](https://github.com/abhay-053/-CrackYourPlacement/tree/master/1468-check-if-n-and-its-double-exist) |
 | [1496-lucky-numbers-in-a-matrix](https://github.com/abhay-053/-CrackYourPlacement/tree/master/1496-lucky-numbers-in-a-matrix) |
 | [1547-minimum-cost-to-cut-a-stick](https://github.com/abhay-053/-CrackYourPlacement/tree/master/1547-minimum-cost-to-cut-a-stick) |
@@ -146,6 +147,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0971-shortest-bridge](https://github.com/abhay-053/-CrackYourPlacement/tree/master/0971-shortest-bridge) |
 | [0999-regions-cut-by-slashes](https://github.com/abhay-053/-CrackYourPlacement/tree/master/0999-regions-cut-by-slashes) |
 | [1301-number-of-paths-with-max-score](https://github.com/abhay-053/-CrackYourPlacement/tree/master/1301-number-of-paths-with-max-score) |
+| [1463-cherry-pickup-ii](https://github.com/abhay-053/-CrackYourPlacement/tree/master/1463-cherry-pickup-ii) |
 | [1496-lucky-numbers-in-a-matrix](https://github.com/abhay-053/-CrackYourPlacement/tree/master/1496-lucky-numbers-in-a-matrix) |
 | [2035-count-sub-islands](https://github.com/abhay-053/-CrackYourPlacement/tree/master/2035-count-sub-islands) |
 | [2343-count-unguarded-cells-in-the-grid](https://github.com/abhay-053/-CrackYourPlacement/tree/master/2343-count-unguarded-cells-in-the-grid) |
@@ -271,6 +273,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1235-maximum-profit-in-job-scheduling](https://github.com/abhay-053/-CrackYourPlacement/tree/master/1235-maximum-profit-in-job-scheduling) |
 | [1301-number-of-paths-with-max-score](https://github.com/abhay-053/-CrackYourPlacement/tree/master/1301-number-of-paths-with-max-score) |
 | [1456-find-the-city-with-the-smallest-number-of-neighbors-at-a-threshold-distance](https://github.com/abhay-053/-CrackYourPlacement/tree/master/1456-find-the-city-with-the-smallest-number-of-neighbors-at-a-threshold-distance) |
+| [1463-cherry-pickup-ii](https://github.com/abhay-053/-CrackYourPlacement/tree/master/1463-cherry-pickup-ii) |
 | [1483-kth-ancestor-of-a-tree-node](https://github.com/abhay-053/-CrackYourPlacement/tree/master/1483-kth-ancestor-of-a-tree-node) |
 | [1547-minimum-cost-to-cut-a-stick](https://github.com/abhay-053/-CrackYourPlacement/tree/master/1547-minimum-cost-to-cut-a-stick) |
 | [1751-maximum-number-of-events-that-can-be-attended-ii](https://github.com/abhay-053/-CrackYourPlacement/tree/master/1751-maximum-number-of-events-that-can-be-attended-ii) |
