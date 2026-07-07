@@ -34,6 +34,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0628-maximum-product-of-three-numbers](https://github.com/abhay-053/-CrackYourPlacement/tree/master/0628-maximum-product-of-three-numbers) |
 | [0729-my-calendar-i](https://github.com/abhay-053/-CrackYourPlacement/tree/master/0729-my-calendar-i) |
 | [0733-flood-fill](https://github.com/abhay-053/-CrackYourPlacement/tree/master/0733-flood-fill) |
+| [0741-cherry-pickup](https://github.com/abhay-053/-CrackYourPlacement/tree/master/0741-cherry-pickup) |
 | [0902-numbers-at-most-n-given-digit-set](https://github.com/abhay-053/-CrackYourPlacement/tree/master/0902-numbers-at-most-n-given-digit-set) |
 | [0971-shortest-bridge](https://github.com/abhay-053/-CrackYourPlacement/tree/master/0971-shortest-bridge) |
 | [0999-regions-cut-by-slashes](https://github.com/abhay-053/-CrackYourPlacement/tree/master/0999-regions-cut-by-slashes) |
@@ -141,6 +142,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0048-rotate-image](https://github.com/abhay-053/-CrackYourPlacement/tree/master/0048-rotate-image) |
 | [0054-spiral-matrix](https://github.com/abhay-053/-CrackYourPlacement/tree/master/0054-spiral-matrix) |
 | [0733-flood-fill](https://github.com/abhay-053/-CrackYourPlacement/tree/master/0733-flood-fill) |
+| [0741-cherry-pickup](https://github.com/abhay-053/-CrackYourPlacement/tree/master/0741-cherry-pickup) |
 | [0971-shortest-bridge](https://github.com/abhay-053/-CrackYourPlacement/tree/master/0971-shortest-bridge) |
 | [0999-regions-cut-by-slashes](https://github.com/abhay-053/-CrackYourPlacement/tree/master/0999-regions-cut-by-slashes) |
 | [1301-number-of-paths-with-max-score](https://github.com/abhay-053/-CrackYourPlacement/tree/master/1301-number-of-paths-with-max-score) |
@@ -263,6 +265,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0132-palindrome-partitioning-ii](https://github.com/abhay-053/-CrackYourPlacement/tree/master/0132-palindrome-partitioning-ii) |
 | [0300-longest-increasing-subsequence](https://github.com/abhay-053/-CrackYourPlacement/tree/master/0300-longest-increasing-subsequence) |
 | [0322-coin-change](https://github.com/abhay-053/-CrackYourPlacement/tree/master/0322-coin-change) |
+| [0741-cherry-pickup](https://github.com/abhay-053/-CrackYourPlacement/tree/master/0741-cherry-pickup) |
 | [0902-numbers-at-most-n-given-digit-set](https://github.com/abhay-053/-CrackYourPlacement/tree/master/0902-numbers-at-most-n-given-digit-set) |
 | [1025-minimum-cost-for-tickets](https://github.com/abhay-053/-CrackYourPlacement/tree/master/1025-minimum-cost-for-tickets) |
 | [1235-maximum-profit-in-job-scheduling](https://github.com/abhay-053/-CrackYourPlacement/tree/master/1235-maximum-profit-in-job-scheduling) |
