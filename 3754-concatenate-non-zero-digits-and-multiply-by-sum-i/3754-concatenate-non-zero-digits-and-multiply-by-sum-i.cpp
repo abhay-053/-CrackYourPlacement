@@ -1,20 +1,21 @@
 class Solution {
 public:
     long long sumAndMultiply(int n) {
-        int x = 0;
+        if(n==0){
+            return 0;
+        }
         int sum = 0;
-        while(n>0){
-            if(n%10 != 0)
-                x = x*10 + n%10;
-            
-            sum+= n%10;
-            n/=10;
+        
+        string num = to_string(n);
+        string s="";
+        for(int i = 0; i < num.size() ; i++){
+            if(num[i] != '0'){
+                s.push_back(num[i]);
+                sum += num[i] - '0';
+            }
         }
-        int num1 = 0;
-        while(x >0){
-            num1 = num1*10 + x%10;
-            x/=10;
-        }
-        return num1*1ll*sum;
+
+        long long n1 = stoll(s);
+        return n1 * 1ll * sum;
     }
 };
