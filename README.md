@@ -381,6 +381,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [3336-find-the-number-of-subsequences-with-equal-gcd](https://github.com/abhay-053/-CrackYourPlacement/tree/master/3336-find-the-number-of-subsequences-with-equal-gcd) |
 | [3558-number-of-ways-to-assign-edge-weights-i](https://github.com/abhay-053/-CrackYourPlacement/tree/master/3558-number-of-ways-to-assign-edge-weights-i) |
 | [3559-number-of-ways-to-assign-edge-weights-ii](https://github.com/abhay-053/-CrackYourPlacement/tree/master/3559-number-of-ways-to-assign-edge-weights-ii) |
+| [3658-gcd-of-odd-and-even-sums](https://github.com/abhay-053/-CrackYourPlacement/tree/master/3658-gcd-of-odd-and-even-sums) |
 | [3754-concatenate-non-zero-digits-and-multiply-by-sum-i](https://github.com/abhay-053/-CrackYourPlacement/tree/master/3754-concatenate-non-zero-digits-and-multiply-by-sum-i) |
 ## Memoization
 |  |
@@ -620,4 +621,5 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [3336-find-the-number-of-subsequences-with-equal-gcd](https://github.com/abhay-053/-CrackYourPlacement/tree/master/3336-find-the-number-of-subsequences-with-equal-gcd) |
+| [3658-gcd-of-odd-and-even-sums](https://github.com/abhay-053/-CrackYourPlacement/tree/master/3658-gcd-of-odd-and-even-sums) |
 <!---LeetCode Topics End-->
