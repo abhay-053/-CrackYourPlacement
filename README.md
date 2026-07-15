@@ -7,6 +7,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0001-two-sum](https://github.com/abhay-053/-CrackYourPlacement/tree/master/0001-two-sum) |
 | [0011-container-with-most-water](https://github.com/abhay-053/-CrackYourPlacement/tree/master/0011-container-with-most-water) |
 | [0015-3sum](https://github.com/abhay-053/-CrackYourPlacement/tree/master/0015-3sum) |
+| [0018-4sum](https://github.com/abhay-053/-CrackYourPlacement/tree/master/0018-4sum) |
 | [0026-remove-duplicates-from-sorted-array](https://github.com/abhay-053/-CrackYourPlacement/tree/master/0026-remove-duplicates-from-sorted-array) |
 | [0040-combination-sum-ii](https://github.com/abhay-053/-CrackYourPlacement/tree/master/0040-combination-sum-ii) |
 | [0042-trapping-rain-water](https://github.com/abhay-053/-CrackYourPlacement/tree/master/0042-trapping-rain-water) |
@@ -232,6 +233,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0015-3sum](https://github.com/abhay-053/-CrackYourPlacement/tree/master/0015-3sum) |
+| [0018-4sum](https://github.com/abhay-053/-CrackYourPlacement/tree/master/0018-4sum) |
 | [0075-sort-colors](https://github.com/abhay-053/-CrackYourPlacement/tree/master/0075-sort-colors) |
 | [0088-merge-sorted-array](https://github.com/abhay-053/-CrackYourPlacement/tree/master/0088-merge-sorted-array) |
 | [0169-majority-element](https://github.com/abhay-053/-CrackYourPlacement/tree/master/0169-majority-element) |
@@ -393,6 +395,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0005-longest-palindromic-substring](https://github.com/abhay-053/-CrackYourPlacement/tree/master/0005-longest-palindromic-substring) |
 | [0011-container-with-most-water](https://github.com/abhay-053/-CrackYourPlacement/tree/master/0011-container-with-most-water) |
 | [0015-3sum](https://github.com/abhay-053/-CrackYourPlacement/tree/master/0015-3sum) |
+| [0018-4sum](https://github.com/abhay-053/-CrackYourPlacement/tree/master/0018-4sum) |
 | [0026-remove-duplicates-from-sorted-array](https://github.com/abhay-053/-CrackYourPlacement/tree/master/0026-remove-duplicates-from-sorted-array) |
 | [0028-find-the-index-of-the-first-occurrence-in-a-string](https://github.com/abhay-053/-CrackYourPlacement/tree/master/0028-find-the-index-of-the-first-occurrence-in-a-string) |
 | [0042-trapping-rain-water](https://github.com/abhay-053/-CrackYourPlacement/tree/master/0042-trapping-rain-water) |
