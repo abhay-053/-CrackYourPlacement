@@ -28,29 +28,33 @@ public:
         n = nums.size();
         // memset(dp, -1, sizeof(dp));
         int maxVal = *max_element(begin(nums), end(nums));
-        int dp[n+1][maxVal + 1][maxVal + 1];
+        // int dp[n+1][maxVal + 1][maxVal + 1];
+        vector<vector<int>> dp(maxVal+1, vector<int>(maxVal+1));
         for(int i = n; i >= 0; i--){
+            vector<vector<int>> ndp(maxVal+1, vector<int>(maxVal+1));
             for(int first = maxVal; first >= 0; first --){
                 for(int second = maxVal; second >= 0; second --){
 
                     if(i == n){
                         if(first != 0 && second != 0 && first == second){
-                            dp[i][first][second] = 1;
+                            dp[first][second] = 1;
                         } else {
-                            dp[i][first][second] = 0;
+                            dp[first][second] = 0;
                         }
                     }
                     else {
-                        int skip = dp[i+1][first][second];
-                        int take1 = dp[i+1][__gcd(first, nums[i])][second];
-                        int take2 = dp[i+1][first][__gcd(second, nums[i])];
+                        int skip = dp[first][second];
+                        int take1 = dp[__gcd(first, nums[i])][second];
+                        int take2 = dp[first][__gcd(second, nums[i])];
 
 
-                        dp[i][first][second] = ((skip + take1) % MOD + take2) % MOD;
+                        ndp[first][second] = ((skip + take1) % MOD + take2) % MOD;
                     }
                 }
             }
+            if( i!= n)
+                dp = ndp;
         }
-        return dp[0][0][0];
+        return dp[0][0];
     }
 };
