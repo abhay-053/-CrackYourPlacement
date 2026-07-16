@@ -3,27 +3,26 @@ public:
     static const int MOD = 1e9 + 7;
     int n;
     int dp[201][201][201];
+    int solve(int i, int first, int second, vector<int>& nums){
+        
+        if(i == nums.size()){
+            int bothTaken = (first != 0 && second != 0);
+            int isEqual = first == second;
 
-    int solve(int idx, int g1, int g2, vector<int>& nums) {
-        if (idx == n) {
-            return (g1 != 0 && g1 == g2);
+            return bothTaken && isEqual;
         }
 
-        int &ans = dp[idx][g1][g2];
-        if (ans != -1) return ans;
+        if(dp[i][first][second] != -1 ){
+            return dp[i][first][second];
+        }
 
-        ans = 0;
+        int skip = solve(i+1, first, second, nums);
+        int take1 = solve(i+1, gcd(first, nums[i]), second, nums);
+        int take2 = solve(i+1, first, gcd(second, nums[i]), nums);
 
-        ans = solve(idx + 1, g1, g2, nums);
-
-        int ng1 = (g1 == 0) ? nums[idx] : gcd(g1, nums[idx]);
-        ans = (ans + solve(idx + 1, ng1, g2, nums)) % MOD;
-
-        int ng2 = (g2 == 0) ? nums[idx] : gcd(g2, nums[idx]);
-        ans = (ans + solve(idx + 1, g1, ng2, nums)) % MOD;
-
-        return ans;
+        return dp[i][first][second] = ((skip + take1) % MOD + take2) % MOD;
     }
+    
 
     int subsequencePairCount(vector<int>& nums) {
         n = nums.size();
