@@ -42,6 +42,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0999-regions-cut-by-slashes](https://github.com/abhay-053/-CrackYourPlacement/tree/master/0999-regions-cut-by-slashes) |
 | [1025-minimum-cost-for-tickets](https://github.com/abhay-053/-CrackYourPlacement/tree/master/1025-minimum-cost-for-tickets) |
 | [1235-maximum-profit-in-job-scheduling](https://github.com/abhay-053/-CrackYourPlacement/tree/master/1235-maximum-profit-in-job-scheduling) |
+| [1260-shift-2d-grid](https://github.com/abhay-053/-CrackYourPlacement/tree/master/1260-shift-2d-grid) |
 | [1288-remove-covered-intervals](https://github.com/abhay-053/-CrackYourPlacement/tree/master/1288-remove-covered-intervals) |
 | [1301-number-of-paths-with-max-score](https://github.com/abhay-053/-CrackYourPlacement/tree/master/1301-number-of-paths-with-max-score) |
 | [1331-rank-transform-of-an-array](https://github.com/abhay-053/-CrackYourPlacement/tree/master/1331-rank-transform-of-an-array) |
@@ -157,6 +158,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0741-cherry-pickup](https://github.com/abhay-053/-CrackYourPlacement/tree/master/0741-cherry-pickup) |
 | [0971-shortest-bridge](https://github.com/abhay-053/-CrackYourPlacement/tree/master/0971-shortest-bridge) |
 | [0999-regions-cut-by-slashes](https://github.com/abhay-053/-CrackYourPlacement/tree/master/0999-regions-cut-by-slashes) |
+| [1260-shift-2d-grid](https://github.com/abhay-053/-CrackYourPlacement/tree/master/1260-shift-2d-grid) |
 | [1301-number-of-paths-with-max-score](https://github.com/abhay-053/-CrackYourPlacement/tree/master/1301-number-of-paths-with-max-score) |
 | [1463-cherry-pickup-ii](https://github.com/abhay-053/-CrackYourPlacement/tree/master/1463-cherry-pickup-ii) |
 | [1496-lucky-numbers-in-a-matrix](https://github.com/abhay-053/-CrackYourPlacement/tree/master/1496-lucky-numbers-in-a-matrix) |
@@ -466,6 +468,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0054-spiral-matrix](https://github.com/abhay-053/-CrackYourPlacement/tree/master/0054-spiral-matrix) |
 | [0067-add-binary](https://github.com/abhay-053/-CrackYourPlacement/tree/master/0067-add-binary) |
+| [1260-shift-2d-grid](https://github.com/abhay-053/-CrackYourPlacement/tree/master/1260-shift-2d-grid) |
 | [2343-count-unguarded-cells-in-the-grid](https://github.com/abhay-053/-CrackYourPlacement/tree/master/2343-count-unguarded-cells-in-the-grid) |
 | [3612-process-string-with-special-operations-i](https://github.com/abhay-053/-CrackYourPlacement/tree/master/3612-process-string-with-special-operations-i) |
 | [3614-process-string-with-special-operations-ii](https://github.com/abhay-053/-CrackYourPlacement/tree/master/3614-process-string-with-special-operations-ii) |
