@@ -1,30 +1,46 @@
 class Solution {
 public:
     string smallestSubsequence(string s) {
-        vector<int> last(26);
+        int n = s.size();
+        vector<int> lastIdx(26, 0);
 
-        for (int i = 0; i < s.size(); i++) {
-            last[s[i] - 'a'] = i;
+        for(int i = 0; i < n; i++){
+            lastIdx[s[i] - 'a'] = i;
         }
 
-        vector<bool> visited(26, false);
-        string st;
+        vector<int> vis(26, 0);
+        stack<char> st;
+        for(int i = 0; i< n; i++){
 
-        for (int i = 0; i < s.size(); i++) {
             char ch = s[i];
 
-            if (visited[ch - 'a'])
+            int idx = ch - 'a';
+            
+            if(vis[idx] == 1){
                 continue;
+            }
+            while(!st.empty() && st.top() > s[i]){
 
-            while (!st.empty() && st.back() > ch && last[st.back() - 'a'] > i) {
-                visited[st.back() - 'a'] = false;
-                st.pop_back();
+                if(lastIdx[st.top()-'a'] > i){
+                    vis[st.top() - 'a'] = 0;
+                    st.pop();
+                } else {
+                    break;
+                }
             }
 
-            st.push_back(ch);
-            visited[ch - 'a'] = true;
+            st.push(s[i]);
+            vis[s[i]-'a'] = 1;
+
         }
 
-        return st;
+        string str;
+        while(!st.empty()){
+            str += st.top();
+            st.pop();
+        }
+
+        reverse(str.begin(), str.end());
+        return str;
     }
 };
