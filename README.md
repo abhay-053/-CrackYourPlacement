@@ -143,6 +143,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1483-kth-ancestor-of-a-tree-node](https://github.com/abhay-053/-CrackYourPlacement/tree/master/1483-kth-ancestor-of-a-tree-node) |
 | [1492-time-needed-to-inform-all-employees](https://github.com/abhay-053/-CrackYourPlacement/tree/master/1492-time-needed-to-inform-all-employees) |
 | [2035-count-sub-islands](https://github.com/abhay-053/-CrackYourPlacement/tree/master/2035-count-sub-islands) |
+| [2045-second-minimum-time-to-reach-destination](https://github.com/abhay-053/-CrackYourPlacement/tree/master/2045-second-minimum-time-to-reach-destination) |
 | [2192-all-ancestors-of-a-node-in-a-directed-acyclic-graph](https://github.com/abhay-053/-CrackYourPlacement/tree/master/2192-all-ancestors-of-a-node-in-a-directed-acyclic-graph) |
 | [2492-minimum-score-of-a-path-between-two-cities](https://github.com/abhay-053/-CrackYourPlacement/tree/master/2492-minimum-score-of-a-path-between-two-cities) |
 | [2685-count-the-number-of-complete-components](https://github.com/abhay-053/-CrackYourPlacement/tree/master/2685-count-the-number-of-complete-components) |
@@ -534,6 +535,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [1456-find-the-city-with-the-smallest-number-of-neighbors-at-a-threshold-distance](https://github.com/abhay-053/-CrackYourPlacement/tree/master/1456-find-the-city-with-the-smallest-number-of-neighbors-at-a-threshold-distance) |
 | [1976-number-of-ways-to-arrive-at-destination](https://github.com/abhay-053/-CrackYourPlacement/tree/master/1976-number-of-ways-to-arrive-at-destination) |
+| [2045-second-minimum-time-to-reach-destination](https://github.com/abhay-053/-CrackYourPlacement/tree/master/2045-second-minimum-time-to-reach-destination) |
 | [2711-minimum-time-to-visit-a-cell-in-a-grid](https://github.com/abhay-053/-CrackYourPlacement/tree/master/2711-minimum-time-to-visit-a-cell-in-a-grid) |
 | [3286-find-a-safe-walk-through-a-grid](https://github.com/abhay-053/-CrackYourPlacement/tree/master/3286-find-a-safe-walk-through-a-grid) |
 | [3620-network-recovery-pathways](https://github.com/abhay-053/-CrackYourPlacement/tree/master/3620-network-recovery-pathways) |
@@ -613,6 +615,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [1976-number-of-ways-to-arrive-at-destination](https://github.com/abhay-053/-CrackYourPlacement/tree/master/1976-number-of-ways-to-arrive-at-destination) |
+| [2045-second-minimum-time-to-reach-destination](https://github.com/abhay-053/-CrackYourPlacement/tree/master/2045-second-minimum-time-to-reach-destination) |
 | [2192-all-ancestors-of-a-node-in-a-directed-acyclic-graph](https://github.com/abhay-053/-CrackYourPlacement/tree/master/2192-all-ancestors-of-a-node-in-a-directed-acyclic-graph) |
 | [2492-minimum-score-of-a-path-between-two-cities](https://github.com/abhay-053/-CrackYourPlacement/tree/master/2492-minimum-score-of-a-path-between-two-cities) |
 | [2685-count-the-number-of-complete-components](https://github.com/abhay-053/-CrackYourPlacement/tree/master/2685-count-the-number-of-complete-components) |
