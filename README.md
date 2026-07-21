@@ -54,6 +54,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1620-check-if-array-pairs-are-divisible-by-k](https://github.com/abhay-053/-CrackYourPlacement/tree/master/1620-check-if-array-pairs-are-divisible-by-k) |
 | [1732-find-the-highest-altitude](https://github.com/abhay-053/-CrackYourPlacement/tree/master/1732-find-the-highest-altitude) |
 | [1751-maximum-number-of-events-that-can-be-attended-ii](https://github.com/abhay-053/-CrackYourPlacement/tree/master/1751-maximum-number-of-events-that-can-be-attended-ii) |
+| [1755-closest-subsequence-sum](https://github.com/abhay-053/-CrackYourPlacement/tree/master/1755-closest-subsequence-sum) |
 | [1833-maximum-ice-cream-bars](https://github.com/abhay-053/-CrackYourPlacement/tree/master/1833-maximum-ice-cream-bars) |
 | [1840-maximum-building-height](https://github.com/abhay-053/-CrackYourPlacement/tree/master/1840-maximum-building-height) |
 | [1846-maximum-element-after-decreasing-and-rearranging](https://github.com/abhay-053/-CrackYourPlacement/tree/master/1846-maximum-element-after-decreasing-and-rearranging) |
@@ -252,6 +253,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1468-check-if-n-and-its-double-exist](https://github.com/abhay-053/-CrackYourPlacement/tree/master/1468-check-if-n-and-its-double-exist) |
 | [1547-minimum-cost-to-cut-a-stick](https://github.com/abhay-053/-CrackYourPlacement/tree/master/1547-minimum-cost-to-cut-a-stick) |
 | [1751-maximum-number-of-events-that-can-be-attended-ii](https://github.com/abhay-053/-CrackYourPlacement/tree/master/1751-maximum-number-of-events-that-can-be-attended-ii) |
+| [1755-closest-subsequence-sum](https://github.com/abhay-053/-CrackYourPlacement/tree/master/1755-closest-subsequence-sum) |
 | [1833-maximum-ice-cream-bars](https://github.com/abhay-053/-CrackYourPlacement/tree/master/1833-maximum-ice-cream-bars) |
 | [1840-maximum-building-height](https://github.com/abhay-053/-CrackYourPlacement/tree/master/1840-maximum-building-height) |
 | [1846-maximum-element-after-decreasing-and-rearranging](https://github.com/abhay-053/-CrackYourPlacement/tree/master/1846-maximum-element-after-decreasing-and-rearranging) |
@@ -295,6 +297,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1483-kth-ancestor-of-a-tree-node](https://github.com/abhay-053/-CrackYourPlacement/tree/master/1483-kth-ancestor-of-a-tree-node) |
 | [1547-minimum-cost-to-cut-a-stick](https://github.com/abhay-053/-CrackYourPlacement/tree/master/1547-minimum-cost-to-cut-a-stick) |
 | [1751-maximum-number-of-events-that-can-be-attended-ii](https://github.com/abhay-053/-CrackYourPlacement/tree/master/1751-maximum-number-of-events-that-can-be-attended-ii) |
+| [1755-closest-subsequence-sum](https://github.com/abhay-053/-CrackYourPlacement/tree/master/1755-closest-subsequence-sum) |
 | [1756-minimum-deletions-to-make-string-balanced](https://github.com/abhay-053/-CrackYourPlacement/tree/master/1756-minimum-deletions-to-make-string-balanced) |
 | [1976-number-of-ways-to-arrive-at-destination](https://github.com/abhay-053/-CrackYourPlacement/tree/master/1976-number-of-ways-to-arrive-at-destination) |
 | [2054-two-best-non-overlapping-events](https://github.com/abhay-053/-CrackYourPlacement/tree/master/2054-two-best-non-overlapping-events) |
@@ -426,6 +429,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0908-middle-of-the-linked-list](https://github.com/abhay-053/-CrackYourPlacement/tree/master/0908-middle-of-the-linked-list) |
 | [1468-check-if-n-and-its-double-exist](https://github.com/abhay-053/-CrackYourPlacement/tree/master/1468-check-if-n-and-its-double-exist) |
 | [1566-check-if-a-word-occurs-as-a-prefix-of-any-word-in-a-sentence](https://github.com/abhay-053/-CrackYourPlacement/tree/master/1566-check-if-a-word-occurs-as-a-prefix-of-any-word-in-a-sentence) |
+| [1755-closest-subsequence-sum](https://github.com/abhay-053/-CrackYourPlacement/tree/master/1755-closest-subsequence-sum) |
 | [2095-delete-the-middle-node-of-a-linked-list](https://github.com/abhay-053/-CrackYourPlacement/tree/master/2095-delete-the-middle-node-of-a-linked-list) |
 | [2130-maximum-twin-sum-of-a-linked-list](https://github.com/abhay-053/-CrackYourPlacement/tree/master/2130-maximum-twin-sum-of-a-linked-list) |
 | [3018-make-string-a-subsequence-using-cyclic-increments](https://github.com/abhay-053/-CrackYourPlacement/tree/master/3018-make-string-a-subsequence-using-cyclic-increments) |
@@ -456,6 +460,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0090-subsets-ii](https://github.com/abhay-053/-CrackYourPlacement/tree/master/0090-subsets-ii) |
 | [0287-find-the-duplicate-number](https://github.com/abhay-053/-CrackYourPlacement/tree/master/0287-find-the-duplicate-number) |
 | [1483-kth-ancestor-of-a-tree-node](https://github.com/abhay-053/-CrackYourPlacement/tree/master/1483-kth-ancestor-of-a-tree-node) |
+| [1755-closest-subsequence-sum](https://github.com/abhay-053/-CrackYourPlacement/tree/master/1755-closest-subsequence-sum) |
 | [1940-maximum-xor-for-each-query](https://github.com/abhay-053/-CrackYourPlacement/tree/master/1940-maximum-xor-for-each-query) |
 | [2846-minimum-edge-weight-equilibrium-queries-in-a-tree](https://github.com/abhay-053/-CrackYourPlacement/tree/master/2846-minimum-edge-weight-equilibrium-queries-in-a-tree) |
 | [3534-path-existence-queries-in-a-graph-ii](https://github.com/abhay-053/-CrackYourPlacement/tree/master/3534-path-existence-queries-in-a-graph-ii) |
@@ -664,4 +669,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [3312-sorted-gcd-pair-queries](https://github.com/abhay-053/-CrackYourPlacement/tree/master/3312-sorted-gcd-pair-queries) |
+## Bitmask
+|  |
+| ------- |
+| [1755-closest-subsequence-sum](https://github.com/abhay-053/-CrackYourPlacement/tree/master/1755-closest-subsequence-sum) |
 <!---LeetCode Topics End-->
