@@ -6,7 +6,7 @@ public:
         if(numRows == 1){
             return s;
         }
-        vector<vector<char>> arr(numRows, vector<char>(1000, ' '));
+        vector<vector<char>> arr(numRows, vector<char>(n, ' '));
 
         int i = 0, j = 0;
         int dir = 0;
