@@ -6,13 +6,13 @@ public:
         if(numRows == 1){
             return s;
         }
-        vector<vector<char>> arr(numRows, vector<char>(n, ' '));
+        vector<string> arr(numRows);
 
-        int i = 0, j = 0;
+        int i = 0;
         int dir = 0;
         int k = 0;
         while(k < n){
-            arr[i][j] = s[k++];
+            arr[i] += s[k++];
 
             if(i == 0){
                 dir = 0;
@@ -24,16 +24,11 @@ public:
                 i++;
             } else {
                 i--;
-                j++;
             }
         }
         string str;
         for(auto i: arr){
-            for(auto j: i){
-                if(j != ' '){
-                    str += j;
-                }
-            }
+            str += i;
         }
         return str;
     }
