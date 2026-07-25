@@ -15,6 +15,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0048-rotate-image](https://github.com/abhay-053/-CrackYourPlacement/tree/master/0048-rotate-image) |
 | [0054-spiral-matrix](https://github.com/abhay-053/-CrackYourPlacement/tree/master/0054-spiral-matrix) |
 | [0055-jump-game](https://github.com/abhay-053/-CrackYourPlacement/tree/master/0055-jump-game) |
+| [0068-text-justification](https://github.com/abhay-053/-CrackYourPlacement/tree/master/0068-text-justification) |
 | [0075-sort-colors](https://github.com/abhay-053/-CrackYourPlacement/tree/master/0075-sort-colors) |
 | [0078-subsets](https://github.com/abhay-053/-CrackYourPlacement/tree/master/0078-subsets) |
 | [0088-merge-sorted-array](https://github.com/abhay-053/-CrackYourPlacement/tree/master/0088-merge-sorted-array) |
@@ -367,6 +368,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0028-find-the-index-of-the-first-occurrence-in-a-string](https://github.com/abhay-053/-CrackYourPlacement/tree/master/0028-find-the-index-of-the-first-occurrence-in-a-string) |
 | [0038-count-and-say](https://github.com/abhay-053/-CrackYourPlacement/tree/master/0038-count-and-say) |
 | [0067-add-binary](https://github.com/abhay-053/-CrackYourPlacement/tree/master/0067-add-binary) |
+| [0068-text-justification](https://github.com/abhay-053/-CrackYourPlacement/tree/master/0068-text-justification) |
 | [0132-palindrome-partitioning-ii](https://github.com/abhay-053/-CrackYourPlacement/tree/master/0132-palindrome-partitioning-ii) |
 | [0151-reverse-words-in-a-string](https://github.com/abhay-053/-CrackYourPlacement/tree/master/0151-reverse-words-in-a-string) |
 | [0257-binary-tree-paths](https://github.com/abhay-053/-CrackYourPlacement/tree/master/0257-binary-tree-paths) |
@@ -506,6 +508,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0054-spiral-matrix](https://github.com/abhay-053/-CrackYourPlacement/tree/master/0054-spiral-matrix) |
 | [0067-add-binary](https://github.com/abhay-053/-CrackYourPlacement/tree/master/0067-add-binary) |
+| [0068-text-justification](https://github.com/abhay-053/-CrackYourPlacement/tree/master/0068-text-justification) |
 | [1260-shift-2d-grid](https://github.com/abhay-053/-CrackYourPlacement/tree/master/1260-shift-2d-grid) |
 | [2343-count-unguarded-cells-in-the-grid](https://github.com/abhay-053/-CrackYourPlacement/tree/master/2343-count-unguarded-cells-in-the-grid) |
 | [3612-process-string-with-special-operations-i](https://github.com/abhay-053/-CrackYourPlacement/tree/master/3612-process-string-with-special-operations-i) |
