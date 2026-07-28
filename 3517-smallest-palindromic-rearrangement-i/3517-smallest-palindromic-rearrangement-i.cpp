@@ -1,17 +1,20 @@
 class Solution {
 public:
     string smallestPalindrome(string s) {
-        map<char,int> mp;
+        vector<int> mp(26,0);
+        int n = s.size();
         for(auto ch: s){
-            mp[ch]++;
+            mp[ch-'a']++;
         }
 
-        string str="";
+        int idx = 0;
+        string str(n, ' ');
         bool isOdd = false;
         char tmp;
-        for(auto itr: mp){
-            char ch = itr.first;
-            int freq = itr.second;
+        int i = 0;
+        for(auto itr = 0; itr < 26; itr++ ){
+            char ch = itr + 'a';
+            int freq = mp[itr];
 
             if(freq % 2){
                 isOdd = true;
@@ -20,16 +23,17 @@ public:
             }
             while(freq > 0){
                 freq -=2;
-                str += ch;
+                str[i++] = ch;
             }
         }
 
-        string str1 = str;
-        reverse(begin(str1), end(str1));
         if(isOdd){
-            str += tmp;
+            str[i++] = tmp;
         }
-        str += str1;
+
+        for(i = 0; i< n/2; i++){
+            str[n-i-1] = str[i]; 
+        }
         return str;
         
     }
