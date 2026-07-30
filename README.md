@@ -75,6 +75,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2035-count-sub-islands](https://github.com/abhay-053/-CrackYourPlacement/tree/master/2035-count-sub-islands) |
 | [2035-partition-array-into-two-arrays-to-minimize-sum-difference](https://github.com/abhay-053/-CrackYourPlacement/tree/master/2035-partition-array-into-two-arrays-to-minimize-sum-difference) |
 | [2054-two-best-non-overlapping-events](https://github.com/abhay-053/-CrackYourPlacement/tree/master/2054-two-best-non-overlapping-events) |
+| [2087-minimum-cost-homecoming-of-a-robot-in-a-grid](https://github.com/abhay-053/-CrackYourPlacement/tree/master/2087-minimum-cost-homecoming-of-a-robot-in-a-grid) |
 | [2343-count-unguarded-cells-in-the-grid](https://github.com/abhay-053/-CrackYourPlacement/tree/master/2343-count-unguarded-cells-in-the-grid) |
 | [2444-count-subarrays-with-fixed-bounds](https://github.com/abhay-053/-CrackYourPlacement/tree/master/2444-count-subarrays-with-fixed-bounds) |
 | [2494-sum-of-prefix-scores-of-strings](https://github.com/abhay-053/-CrackYourPlacement/tree/master/2494-sum-of-prefix-scores-of-strings) |
@@ -551,6 +552,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1081-smallest-subsequence-of-distinct-characters](https://github.com/abhay-053/-CrackYourPlacement/tree/master/1081-smallest-subsequence-of-distinct-characters) |
 | [1833-maximum-ice-cream-bars](https://github.com/abhay-053/-CrackYourPlacement/tree/master/1833-maximum-ice-cream-bars) |
 | [1846-maximum-element-after-decreasing-and-rearranging](https://github.com/abhay-053/-CrackYourPlacement/tree/master/1846-maximum-element-after-decreasing-and-rearranging) |
+| [2087-minimum-cost-homecoming-of-a-robot-in-a-grid](https://github.com/abhay-053/-CrackYourPlacement/tree/master/2087-minimum-cost-homecoming-of-a-robot-in-a-grid) |
 | [3014-minimum-number-of-pushes-to-type-word-i](https://github.com/abhay-053/-CrackYourPlacement/tree/master/3014-minimum-number-of-pushes-to-type-word-i) |
 | [3016-minimum-number-of-pushes-to-type-word-ii](https://github.com/abhay-053/-CrackYourPlacement/tree/master/3016-minimum-number-of-pushes-to-type-word-ii) |
 | [3276-minimum-number-of-pushes-to-type-word-ii](https://github.com/abhay-053/-CrackYourPlacement/tree/master/3276-minimum-number-of-pushes-to-type-word-ii) |
