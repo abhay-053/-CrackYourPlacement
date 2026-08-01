@@ -34,6 +34,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0307-range-sum-query-mutable](https://github.com/abhay-053/-CrackYourPlacement/tree/master/0307-range-sum-query-mutable) |
 | [0322-coin-change](https://github.com/abhay-053/-CrackYourPlacement/tree/master/0322-coin-change) |
 | [0442-find-all-duplicates-in-an-array](https://github.com/abhay-053/-CrackYourPlacement/tree/master/0442-find-all-duplicates-in-an-array) |
+| [0486-predict-the-winner](https://github.com/abhay-053/-CrackYourPlacement/tree/master/0486-predict-the-winner) |
 | [0525-contiguous-array](https://github.com/abhay-053/-CrackYourPlacement/tree/master/0525-contiguous-array) |
 | [0628-maximum-product-of-three-numbers](https://github.com/abhay-053/-CrackYourPlacement/tree/master/0628-maximum-product-of-three-numbers) |
 | [0729-my-calendar-i](https://github.com/abhay-053/-CrackYourPlacement/tree/master/0729-my-calendar-i) |
@@ -325,6 +326,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0132-palindrome-partitioning-ii](https://github.com/abhay-053/-CrackYourPlacement/tree/master/0132-palindrome-partitioning-ii) |
 | [0300-longest-increasing-subsequence](https://github.com/abhay-053/-CrackYourPlacement/tree/master/0300-longest-increasing-subsequence) |
 | [0322-coin-change](https://github.com/abhay-053/-CrackYourPlacement/tree/master/0322-coin-change) |
+| [0486-predict-the-winner](https://github.com/abhay-053/-CrackYourPlacement/tree/master/0486-predict-the-winner) |
 | [0741-cherry-pickup](https://github.com/abhay-053/-CrackYourPlacement/tree/master/0741-cherry-pickup) |
 | [0902-numbers-at-most-n-given-digit-set](https://github.com/abhay-053/-CrackYourPlacement/tree/master/0902-numbers-at-most-n-given-digit-set) |
 | [1025-minimum-cost-for-tickets](https://github.com/abhay-053/-CrackYourPlacement/tree/master/1025-minimum-cost-for-tickets) |
@@ -435,6 +437,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0021-merge-two-sorted-lists](https://github.com/abhay-053/-CrackYourPlacement/tree/master/0021-merge-two-sorted-lists) |
 | [0203-remove-linked-list-elements](https://github.com/abhay-053/-CrackYourPlacement/tree/master/0203-remove-linked-list-elements) |
 | [0394-decode-string](https://github.com/abhay-053/-CrackYourPlacement/tree/master/0394-decode-string) |
+| [0486-predict-the-winner](https://github.com/abhay-053/-CrackYourPlacement/tree/master/0486-predict-the-winner) |
 | [1197-parsing-a-boolean-expression](https://github.com/abhay-053/-CrackYourPlacement/tree/master/1197-parsing-a-boolean-expression) |
 ## Math
 |  |
@@ -444,6 +447,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0070-climbing-stairs](https://github.com/abhay-053/-CrackYourPlacement/tree/master/0070-climbing-stairs) |
 | [0096-unique-binary-search-trees](https://github.com/abhay-053/-CrackYourPlacement/tree/master/0096-unique-binary-search-trees) |
 | [0189-rotate-array](https://github.com/abhay-053/-CrackYourPlacement/tree/master/0189-rotate-array) |
+| [0486-predict-the-winner](https://github.com/abhay-053/-CrackYourPlacement/tree/master/0486-predict-the-winner) |
 | [0564-find-the-closest-palindrome](https://github.com/abhay-053/-CrackYourPlacement/tree/master/0564-find-the-closest-palindrome) |
 | [0628-maximum-product-of-three-numbers](https://github.com/abhay-053/-CrackYourPlacement/tree/master/0628-maximum-product-of-three-numbers) |
 | [0902-numbers-at-most-n-given-digit-set](https://github.com/abhay-053/-CrackYourPlacement/tree/master/0902-numbers-at-most-n-given-digit-set) |
@@ -760,4 +764,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [2444-count-subarrays-with-fixed-bounds](https://github.com/abhay-053/-CrackYourPlacement/tree/master/2444-count-subarrays-with-fixed-bounds) |
+## Game Theory
+|  |
+| ------- |
+| [0486-predict-the-winner](https://github.com/abhay-053/-CrackYourPlacement/tree/master/0486-predict-the-winner) |
 <!---LeetCode Topics End-->
