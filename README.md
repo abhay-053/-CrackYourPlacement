@@ -352,6 +352,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2054-two-best-non-overlapping-events](https://github.com/abhay-053/-CrackYourPlacement/tree/master/2054-two-best-non-overlapping-events) |
 | [2755-extra-characters-in-a-string](https://github.com/abhay-053/-CrackYourPlacement/tree/master/2755-extra-characters-in-a-string) |
 | [2846-minimum-edge-weight-equilibrium-queries-in-a-tree](https://github.com/abhay-053/-CrackYourPlacement/tree/master/2846-minimum-edge-weight-equilibrium-queries-in-a-tree) |
+| [3302-find-the-lexicographically-smallest-valid-sequence](https://github.com/abhay-053/-CrackYourPlacement/tree/master/3302-find-the-lexicographically-smallest-valid-sequence) |
 | [3336-find-the-number-of-subsequences-with-equal-gcd](https://github.com/abhay-053/-CrackYourPlacement/tree/master/3336-find-the-number-of-subsequences-with-equal-gcd) |
 | [3534-path-existence-queries-in-a-graph-ii](https://github.com/abhay-053/-CrackYourPlacement/tree/master/3534-path-existence-queries-in-a-graph-ii) |
 | [3559-number-of-ways-to-assign-edge-weights-ii](https://github.com/abhay-053/-CrackYourPlacement/tree/master/3559-number-of-ways-to-assign-edge-weights-ii) |
@@ -418,6 +419,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [3016-minimum-number-of-pushes-to-type-word-ii](https://github.com/abhay-053/-CrackYourPlacement/tree/master/3016-minimum-number-of-pushes-to-type-word-ii) |
 | [3018-make-string-a-subsequence-using-cyclic-increments](https://github.com/abhay-053/-CrackYourPlacement/tree/master/3018-make-string-a-subsequence-using-cyclic-increments) |
 | [3276-minimum-number-of-pushes-to-type-word-ii](https://github.com/abhay-053/-CrackYourPlacement/tree/master/3276-minimum-number-of-pushes-to-type-word-ii) |
+| [3302-find-the-lexicographically-smallest-valid-sequence](https://github.com/abhay-053/-CrackYourPlacement/tree/master/3302-find-the-lexicographically-smallest-valid-sequence) |
 | [3499-maximize-active-section-with-trade-i](https://github.com/abhay-053/-CrackYourPlacement/tree/master/3499-maximize-active-section-with-trade-i) |
 | [3517-smallest-palindromic-rearrangement-i](https://github.com/abhay-053/-CrackYourPlacement/tree/master/3517-smallest-palindromic-rearrangement-i) |
 | [3518-smallest-palindromic-rearrangement-ii](https://github.com/abhay-053/-CrackYourPlacement/tree/master/3518-smallest-palindromic-rearrangement-ii) |
@@ -502,6 +504,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2095-delete-the-middle-node-of-a-linked-list](https://github.com/abhay-053/-CrackYourPlacement/tree/master/2095-delete-the-middle-node-of-a-linked-list) |
 | [2130-maximum-twin-sum-of-a-linked-list](https://github.com/abhay-053/-CrackYourPlacement/tree/master/2130-maximum-twin-sum-of-a-linked-list) |
 | [3018-make-string-a-subsequence-using-cyclic-increments](https://github.com/abhay-053/-CrackYourPlacement/tree/master/3018-make-string-a-subsequence-using-cyclic-increments) |
+| [3302-find-the-lexicographically-smallest-valid-sequence](https://github.com/abhay-053/-CrackYourPlacement/tree/master/3302-find-the-lexicographically-smallest-valid-sequence) |
 | [3534-path-existence-queries-in-a-graph-ii](https://github.com/abhay-053/-CrackYourPlacement/tree/master/3534-path-existence-queries-in-a-graph-ii) |
 | [3867-sum-of-gcd-of-formed-pairs](https://github.com/abhay-053/-CrackYourPlacement/tree/master/3867-sum-of-gcd-of-formed-pairs) |
 ## Binary Search
@@ -570,6 +573,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [3014-minimum-number-of-pushes-to-type-word-i](https://github.com/abhay-053/-CrackYourPlacement/tree/master/3014-minimum-number-of-pushes-to-type-word-i) |
 | [3016-minimum-number-of-pushes-to-type-word-ii](https://github.com/abhay-053/-CrackYourPlacement/tree/master/3016-minimum-number-of-pushes-to-type-word-ii) |
 | [3276-minimum-number-of-pushes-to-type-word-ii](https://github.com/abhay-053/-CrackYourPlacement/tree/master/3276-minimum-number-of-pushes-to-type-word-ii) |
+| [3302-find-the-lexicographically-smallest-valid-sequence](https://github.com/abhay-053/-CrackYourPlacement/tree/master/3302-find-the-lexicographically-smallest-valid-sequence) |
 | [3534-path-existence-queries-in-a-graph-ii](https://github.com/abhay-053/-CrackYourPlacement/tree/master/3534-path-existence-queries-in-a-graph-ii) |
 ## Counting
 |  |
