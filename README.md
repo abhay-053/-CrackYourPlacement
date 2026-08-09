@@ -49,6 +49,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1025-minimum-cost-for-tickets](https://github.com/abhay-053/-CrackYourPlacement/tree/master/1025-minimum-cost-for-tickets) |
 | [1031-maximum-sum-of-two-non-overlapping-subarrays](https://github.com/abhay-053/-CrackYourPlacement/tree/master/1031-maximum-sum-of-two-non-overlapping-subarrays) |
 | [1091-shortest-path-in-binary-matrix](https://github.com/abhay-053/-CrackYourPlacement/tree/master/1091-shortest-path-in-binary-matrix) |
+| [1140-stone-game-ii](https://github.com/abhay-053/-CrackYourPlacement/tree/master/1140-stone-game-ii) |
 | [1235-maximum-profit-in-job-scheduling](https://github.com/abhay-053/-CrackYourPlacement/tree/master/1235-maximum-profit-in-job-scheduling) |
 | [1260-shift-2d-grid](https://github.com/abhay-053/-CrackYourPlacement/tree/master/1260-shift-2d-grid) |
 | [1288-remove-covered-intervals](https://github.com/abhay-053/-CrackYourPlacement/tree/master/1288-remove-covered-intervals) |
@@ -337,6 +338,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0902-numbers-at-most-n-given-digit-set](https://github.com/abhay-053/-CrackYourPlacement/tree/master/0902-numbers-at-most-n-given-digit-set) |
 | [1025-minimum-cost-for-tickets](https://github.com/abhay-053/-CrackYourPlacement/tree/master/1025-minimum-cost-for-tickets) |
 | [1031-maximum-sum-of-two-non-overlapping-subarrays](https://github.com/abhay-053/-CrackYourPlacement/tree/master/1031-maximum-sum-of-two-non-overlapping-subarrays) |
+| [1140-stone-game-ii](https://github.com/abhay-053/-CrackYourPlacement/tree/master/1140-stone-game-ii) |
 | [1235-maximum-profit-in-job-scheduling](https://github.com/abhay-053/-CrackYourPlacement/tree/master/1235-maximum-profit-in-job-scheduling) |
 | [1301-number-of-paths-with-max-score](https://github.com/abhay-053/-CrackYourPlacement/tree/master/1301-number-of-paths-with-max-score) |
 | [1334-find-the-city-with-the-smallest-number-of-neighbors-at-a-threshold-distance](https://github.com/abhay-053/-CrackYourPlacement/tree/master/1334-find-the-city-with-the-smallest-number-of-neighbors-at-a-threshold-distance) |
@@ -461,6 +463,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0628-maximum-product-of-three-numbers](https://github.com/abhay-053/-CrackYourPlacement/tree/master/0628-maximum-product-of-three-numbers) |
 | [0877-stone-game](https://github.com/abhay-053/-CrackYourPlacement/tree/master/0877-stone-game) |
 | [0902-numbers-at-most-n-given-digit-set](https://github.com/abhay-053/-CrackYourPlacement/tree/master/0902-numbers-at-most-n-given-digit-set) |
+| [1140-stone-game-ii](https://github.com/abhay-053/-CrackYourPlacement/tree/master/1140-stone-game-ii) |
 | [1344-angle-between-hands-of-a-clock](https://github.com/abhay-053/-CrackYourPlacement/tree/master/1344-angle-between-hands-of-a-clock) |
 | [1840-maximum-building-height](https://github.com/abhay-053/-CrackYourPlacement/tree/master/1840-maximum-building-height) |
 | [1979-find-greatest-common-divisor-of-array](https://github.com/abhay-053/-CrackYourPlacement/tree/master/1979-find-greatest-common-divisor-of-array) |
@@ -671,6 +674,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0303-range-sum-query-immutable](https://github.com/abhay-053/-CrackYourPlacement/tree/master/0303-range-sum-query-immutable) |
 | [0525-contiguous-array](https://github.com/abhay-053/-CrackYourPlacement/tree/master/0525-contiguous-array) |
+| [1140-stone-game-ii](https://github.com/abhay-053/-CrackYourPlacement/tree/master/1140-stone-game-ii) |
 | [1732-find-the-highest-altitude](https://github.com/abhay-053/-CrackYourPlacement/tree/master/1732-find-the-highest-altitude) |
 | [1940-maximum-xor-for-each-query](https://github.com/abhay-053/-CrackYourPlacement/tree/master/1940-maximum-xor-for-each-query) |
 | [3312-sorted-gcd-pair-queries](https://github.com/abhay-053/-CrackYourPlacement/tree/master/3312-sorted-gcd-pair-queries) |
@@ -782,4 +786,13 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0486-predict-the-winner](https://github.com/abhay-053/-CrackYourPlacement/tree/master/0486-predict-the-winner) |
 | [0877-stone-game](https://github.com/abhay-053/-CrackYourPlacement/tree/master/0877-stone-game) |
+| [1140-stone-game-ii](https://github.com/abhay-053/-CrackYourPlacement/tree/master/1140-stone-game-ii) |
+## Minimax
+|  |
+| ------- |
+| [1140-stone-game-ii](https://github.com/abhay-053/-CrackYourPlacement/tree/master/1140-stone-game-ii) |
+## Zero-Sum Game
+|  |
+| ------- |
+| [1140-stone-game-ii](https://github.com/abhay-053/-CrackYourPlacement/tree/master/1140-stone-game-ii) |
 <!---LeetCode Topics End-->
