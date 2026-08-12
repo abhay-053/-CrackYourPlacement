@@ -87,6 +87,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2755-extra-characters-in-a-string](https://github.com/abhay-053/-CrackYourPlacement/tree/master/2755-extra-characters-in-a-string) |
 | [2812-find-the-safest-path-in-a-grid](https://github.com/abhay-053/-CrackYourPlacement/tree/master/2812-find-the-safest-path-in-a-grid) |
 | [2846-minimum-edge-weight-equilibrium-queries-in-a-tree](https://github.com/abhay-053/-CrackYourPlacement/tree/master/2846-minimum-edge-weight-equilibrium-queries-in-a-tree) |
+| [2958-length-of-longest-subarray-with-at-most-k-frequency](https://github.com/abhay-053/-CrackYourPlacement/tree/master/2958-length-of-longest-subarray-with-at-most-k-frequency) |
 | [2996-smallest-missing-integer-greater-than-sequential-prefix-sum](https://github.com/abhay-053/-CrackYourPlacement/tree/master/2996-smallest-missing-integer-greater-than-sequential-prefix-sum) |
 | [3020-find-the-maximum-number-of-elements-in-subset](https://github.com/abhay-053/-CrackYourPlacement/tree/master/3020-find-the-maximum-number-of-elements-in-subset) |
 | [3286-find-a-safe-walk-through-a-grid](https://github.com/abhay-053/-CrackYourPlacement/tree/master/3286-find-a-safe-walk-through-a-grid) |
@@ -382,6 +383,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1715-split-a-string-into-the-max-number-of-unique-substrings](https://github.com/abhay-053/-CrackYourPlacement/tree/master/1715-split-a-string-into-the-max-number-of-unique-substrings) |
 | [1866-restore-the-array-from-adjacent-pairs](https://github.com/abhay-053/-CrackYourPlacement/tree/master/1866-restore-the-array-from-adjacent-pairs) |
 | [2755-extra-characters-in-a-string](https://github.com/abhay-053/-CrackYourPlacement/tree/master/2755-extra-characters-in-a-string) |
+| [2958-length-of-longest-subarray-with-at-most-k-frequency](https://github.com/abhay-053/-CrackYourPlacement/tree/master/2958-length-of-longest-subarray-with-at-most-k-frequency) |
 | [2996-smallest-missing-integer-greater-than-sequential-prefix-sum](https://github.com/abhay-053/-CrackYourPlacement/tree/master/2996-smallest-missing-integer-greater-than-sequential-prefix-sum) |
 | [3016-minimum-number-of-pushes-to-type-word-ii](https://github.com/abhay-053/-CrackYourPlacement/tree/master/3016-minimum-number-of-pushes-to-type-word-ii) |
 | [3020-find-the-maximum-number-of-elements-in-subset](https://github.com/abhay-053/-CrackYourPlacement/tree/master/3020-find-the-maximum-number-of-elements-in-subset) |
@@ -753,6 +755,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1031-maximum-sum-of-two-non-overlapping-subarrays](https://github.com/abhay-053/-CrackYourPlacement/tree/master/1031-maximum-sum-of-two-non-overlapping-subarrays) |
 | [1358-number-of-substrings-containing-all-three-characters](https://github.com/abhay-053/-CrackYourPlacement/tree/master/1358-number-of-substrings-containing-all-three-characters) |
 | [2444-count-subarrays-with-fixed-bounds](https://github.com/abhay-053/-CrackYourPlacement/tree/master/2444-count-subarrays-with-fixed-bounds) |
+| [2958-length-of-longest-subarray-with-at-most-k-frequency](https://github.com/abhay-053/-CrackYourPlacement/tree/master/2958-length-of-longest-subarray-with-at-most-k-frequency) |
 ## Union-Find
 |  |
 | ------- |
