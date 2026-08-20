@@ -423,6 +423,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1081-smallest-subsequence-of-distinct-characters](https://github.com/abhay-053/-CrackYourPlacement/tree/master/1081-smallest-subsequence-of-distinct-characters) |
 | [1189-maximum-number-of-balloons](https://github.com/abhay-053/-CrackYourPlacement/tree/master/1189-maximum-number-of-balloons) |
 | [1197-parsing-a-boolean-expression](https://github.com/abhay-053/-CrackYourPlacement/tree/master/1197-parsing-a-boolean-expression) |
+| [1208-get-equal-substrings-within-budget](https://github.com/abhay-053/-CrackYourPlacement/tree/master/1208-get-equal-substrings-within-budget) |
 | [1350-remove-sub-folders-from-the-filesystem](https://github.com/abhay-053/-CrackYourPlacement/tree/master/1350-remove-sub-folders-from-the-filesystem) |
 | [1358-number-of-substrings-containing-all-three-characters](https://github.com/abhay-053/-CrackYourPlacement/tree/master/1358-number-of-substrings-containing-all-three-characters) |
 | [1566-check-if-a-word-occurs-as-a-prefix-of-any-word-in-a-sentence](https://github.com/abhay-053/-CrackYourPlacement/tree/master/1566-check-if-a-word-occurs-as-a-prefix-of-any-word-in-a-sentence) |
@@ -535,6 +536,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0729-my-calendar-i](https://github.com/abhay-053/-CrackYourPlacement/tree/master/0729-my-calendar-i) |
 | [0778-swim-in-rising-water](https://github.com/abhay-053/-CrackYourPlacement/tree/master/0778-swim-in-rising-water) |
 | [0902-numbers-at-most-n-given-digit-set](https://github.com/abhay-053/-CrackYourPlacement/tree/master/0902-numbers-at-most-n-given-digit-set) |
+| [1208-get-equal-substrings-within-budget](https://github.com/abhay-053/-CrackYourPlacement/tree/master/1208-get-equal-substrings-within-budget) |
 | [1235-maximum-profit-in-job-scheduling](https://github.com/abhay-053/-CrackYourPlacement/tree/master/1235-maximum-profit-in-job-scheduling) |
 | [1468-check-if-n-and-its-double-exist](https://github.com/abhay-053/-CrackYourPlacement/tree/master/1468-check-if-n-and-its-double-exist) |
 | [1483-kth-ancestor-of-a-tree-node](https://github.com/abhay-053/-CrackYourPlacement/tree/master/1483-kth-ancestor-of-a-tree-node) |
@@ -694,6 +696,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0525-contiguous-array](https://github.com/abhay-053/-CrackYourPlacement/tree/master/0525-contiguous-array) |
 | [0848-shifting-letters](https://github.com/abhay-053/-CrackYourPlacement/tree/master/0848-shifting-letters) |
 | [1140-stone-game-ii](https://github.com/abhay-053/-CrackYourPlacement/tree/master/1140-stone-game-ii) |
+| [1208-get-equal-substrings-within-budget](https://github.com/abhay-053/-CrackYourPlacement/tree/master/1208-get-equal-substrings-within-budget) |
 | [1732-find-the-highest-altitude](https://github.com/abhay-053/-CrackYourPlacement/tree/master/1732-find-the-highest-altitude) |
 | [1940-maximum-xor-for-each-query](https://github.com/abhay-053/-CrackYourPlacement/tree/master/1940-maximum-xor-for-each-query) |
 | [3312-sorted-gcd-pair-queries](https://github.com/abhay-053/-CrackYourPlacement/tree/master/3312-sorted-gcd-pair-queries) |
@@ -767,6 +770,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [1031-maximum-sum-of-two-non-overlapping-subarrays](https://github.com/abhay-053/-CrackYourPlacement/tree/master/1031-maximum-sum-of-two-non-overlapping-subarrays) |
+| [1208-get-equal-substrings-within-budget](https://github.com/abhay-053/-CrackYourPlacement/tree/master/1208-get-equal-substrings-within-budget) |
 | [1358-number-of-substrings-containing-all-three-characters](https://github.com/abhay-053/-CrackYourPlacement/tree/master/1358-number-of-substrings-containing-all-three-characters) |
 | [2444-count-subarrays-with-fixed-bounds](https://github.com/abhay-053/-CrackYourPlacement/tree/master/2444-count-subarrays-with-fixed-bounds) |
 | [2958-length-of-longest-subarray-with-at-most-k-frequency](https://github.com/abhay-053/-CrackYourPlacement/tree/master/2958-length-of-longest-subarray-with-at-most-k-frequency) |
