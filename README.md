@@ -42,6 +42,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0741-cherry-pickup](https://github.com/abhay-053/-CrackYourPlacement/tree/master/0741-cherry-pickup) |
 | [0778-swim-in-rising-water](https://github.com/abhay-053/-CrackYourPlacement/tree/master/0778-swim-in-rising-water) |
 | [0815-bus-routes](https://github.com/abhay-053/-CrackYourPlacement/tree/master/0815-bus-routes) |
+| [0848-shifting-letters](https://github.com/abhay-053/-CrackYourPlacement/tree/master/0848-shifting-letters) |
 | [0877-stone-game](https://github.com/abhay-053/-CrackYourPlacement/tree/master/0877-stone-game) |
 | [0902-numbers-at-most-n-given-digit-set](https://github.com/abhay-053/-CrackYourPlacement/tree/master/0902-numbers-at-most-n-given-digit-set) |
 | [0971-shortest-bridge](https://github.com/abhay-053/-CrackYourPlacement/tree/master/0971-shortest-bridge) |
@@ -417,6 +418,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0316-remove-duplicate-letters](https://github.com/abhay-053/-CrackYourPlacement/tree/master/0316-remove-duplicate-letters) |
 | [0394-decode-string](https://github.com/abhay-053/-CrackYourPlacement/tree/master/0394-decode-string) |
 | [0564-find-the-closest-palindrome](https://github.com/abhay-053/-CrackYourPlacement/tree/master/0564-find-the-closest-palindrome) |
+| [0848-shifting-letters](https://github.com/abhay-053/-CrackYourPlacement/tree/master/0848-shifting-letters) |
 | [0902-numbers-at-most-n-given-digit-set](https://github.com/abhay-053/-CrackYourPlacement/tree/master/0902-numbers-at-most-n-given-digit-set) |
 | [1081-smallest-subsequence-of-distinct-characters](https://github.com/abhay-053/-CrackYourPlacement/tree/master/1081-smallest-subsequence-of-distinct-characters) |
 | [1189-maximum-number-of-balloons](https://github.com/abhay-053/-CrackYourPlacement/tree/master/1189-maximum-number-of-balloons) |
@@ -690,6 +692,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0303-range-sum-query-immutable](https://github.com/abhay-053/-CrackYourPlacement/tree/master/0303-range-sum-query-immutable) |
 | [0525-contiguous-array](https://github.com/abhay-053/-CrackYourPlacement/tree/master/0525-contiguous-array) |
+| [0848-shifting-letters](https://github.com/abhay-053/-CrackYourPlacement/tree/master/0848-shifting-letters) |
 | [1140-stone-game-ii](https://github.com/abhay-053/-CrackYourPlacement/tree/master/1140-stone-game-ii) |
 | [1732-find-the-highest-altitude](https://github.com/abhay-053/-CrackYourPlacement/tree/master/1732-find-the-highest-altitude) |
 | [1940-maximum-xor-for-each-query](https://github.com/abhay-053/-CrackYourPlacement/tree/master/1940-maximum-xor-for-each-query) |
