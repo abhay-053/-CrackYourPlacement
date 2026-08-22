@@ -491,6 +491,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [3536-maximum-product-of-two-digits](https://github.com/abhay-053/-CrackYourPlacement/tree/master/3536-maximum-product-of-two-digits) |
 | [3558-number-of-ways-to-assign-edge-weights-i](https://github.com/abhay-053/-CrackYourPlacement/tree/master/3558-number-of-ways-to-assign-edge-weights-i) |
 | [3559-number-of-ways-to-assign-edge-weights-ii](https://github.com/abhay-053/-CrackYourPlacement/tree/master/3559-number-of-ways-to-assign-edge-weights-ii) |
+| [3622-check-divisibility-by-digit-sum-and-product](https://github.com/abhay-053/-CrackYourPlacement/tree/master/3622-check-divisibility-by-digit-sum-and-product) |
 | [3658-gcd-of-odd-and-even-sums](https://github.com/abhay-053/-CrackYourPlacement/tree/master/3658-gcd-of-odd-and-even-sums) |
 | [3754-concatenate-non-zero-digits-and-multiply-by-sum-i](https://github.com/abhay-053/-CrackYourPlacement/tree/master/3754-concatenate-non-zero-digits-and-multiply-by-sum-i) |
 | [3867-sum-of-gcd-of-formed-pairs](https://github.com/abhay-053/-CrackYourPlacement/tree/master/3867-sum-of-gcd-of-formed-pairs) |
