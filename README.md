@@ -15,6 +15,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0048-rotate-image](https://github.com/abhay-053/-CrackYourPlacement/tree/master/0048-rotate-image) |
 | [0054-spiral-matrix](https://github.com/abhay-053/-CrackYourPlacement/tree/master/0054-spiral-matrix) |
 | [0055-jump-game](https://github.com/abhay-053/-CrackYourPlacement/tree/master/0055-jump-game) |
+| [0056-merge-intervals](https://github.com/abhay-053/-CrackYourPlacement/tree/master/0056-merge-intervals) |
 | [0068-text-justification](https://github.com/abhay-053/-CrackYourPlacement/tree/master/0068-text-justification) |
 | [0075-sort-colors](https://github.com/abhay-053/-CrackYourPlacement/tree/master/0075-sort-colors) |
 | [0078-subsets](https://github.com/abhay-053/-CrackYourPlacement/tree/master/0078-subsets) |
@@ -286,6 +287,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0015-3sum](https://github.com/abhay-053/-CrackYourPlacement/tree/master/0015-3sum) |
 | [0018-4sum](https://github.com/abhay-053/-CrackYourPlacement/tree/master/0018-4sum) |
+| [0056-merge-intervals](https://github.com/abhay-053/-CrackYourPlacement/tree/master/0056-merge-intervals) |
 | [0075-sort-colors](https://github.com/abhay-053/-CrackYourPlacement/tree/master/0075-sort-colors) |
 | [0088-merge-sorted-array](https://github.com/abhay-053/-CrackYourPlacement/tree/master/0088-merge-sorted-array) |
 | [0169-majority-element](https://github.com/abhay-053/-CrackYourPlacement/tree/master/0169-majority-element) |
@@ -845,4 +847,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0347-top-k-frequent-elements](https://github.com/abhay-053/-CrackYourPlacement/tree/master/0347-top-k-frequent-elements) |
+## Quicksort
+|  |
+| ------- |
+| [0056-merge-intervals](https://github.com/abhay-053/-CrackYourPlacement/tree/master/0056-merge-intervals) |
 <!---LeetCode Topics End-->
