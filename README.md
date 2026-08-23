@@ -34,6 +34,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0303-range-sum-query-immutable](https://github.com/abhay-053/-CrackYourPlacement/tree/master/0303-range-sum-query-immutable) |
 | [0307-range-sum-query-mutable](https://github.com/abhay-053/-CrackYourPlacement/tree/master/0307-range-sum-query-mutable) |
 | [0322-coin-change](https://github.com/abhay-053/-CrackYourPlacement/tree/master/0322-coin-change) |
+| [0347-top-k-frequent-elements](https://github.com/abhay-053/-CrackYourPlacement/tree/master/0347-top-k-frequent-elements) |
 | [0442-find-all-duplicates-in-an-array](https://github.com/abhay-053/-CrackYourPlacement/tree/master/0442-find-all-duplicates-in-an-array) |
 | [0486-predict-the-winner](https://github.com/abhay-053/-CrackYourPlacement/tree/master/0486-predict-the-winner) |
 | [0525-contiguous-array](https://github.com/abhay-053/-CrackYourPlacement/tree/master/0525-contiguous-array) |
@@ -277,6 +278,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0169-majority-element](https://github.com/abhay-053/-CrackYourPlacement/tree/master/0169-majority-element) |
 | [0215-kth-largest-element-in-an-array](https://github.com/abhay-053/-CrackYourPlacement/tree/master/0215-kth-largest-element-in-an-array) |
 | [0307-range-sum-query-mutable](https://github.com/abhay-053/-CrackYourPlacement/tree/master/0307-range-sum-query-mutable) |
+| [0347-top-k-frequent-elements](https://github.com/abhay-053/-CrackYourPlacement/tree/master/0347-top-k-frequent-elements) |
 | [3737-count-subarrays-with-majority-element-i](https://github.com/abhay-053/-CrackYourPlacement/tree/master/3737-count-subarrays-with-majority-element-i) |
 | [3739-count-subarrays-with-majority-element-ii](https://github.com/abhay-053/-CrackYourPlacement/tree/master/3739-count-subarrays-with-majority-element-ii) |
 ## Sorting
@@ -289,6 +291,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0169-majority-element](https://github.com/abhay-053/-CrackYourPlacement/tree/master/0169-majority-element) |
 | [0215-kth-largest-element-in-an-array](https://github.com/abhay-053/-CrackYourPlacement/tree/master/0215-kth-largest-element-in-an-array) |
 | [0229-majority-element-ii](https://github.com/abhay-053/-CrackYourPlacement/tree/master/0229-majority-element-ii) |
+| [0347-top-k-frequent-elements](https://github.com/abhay-053/-CrackYourPlacement/tree/master/0347-top-k-frequent-elements) |
 | [0628-maximum-product-of-three-numbers](https://github.com/abhay-053/-CrackYourPlacement/tree/master/0628-maximum-product-of-three-numbers) |
 | [1235-maximum-profit-in-job-scheduling](https://github.com/abhay-053/-CrackYourPlacement/tree/master/1235-maximum-profit-in-job-scheduling) |
 | [1288-remove-covered-intervals](https://github.com/abhay-053/-CrackYourPlacement/tree/master/1288-remove-covered-intervals) |
@@ -316,6 +319,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0215-kth-largest-element-in-an-array](https://github.com/abhay-053/-CrackYourPlacement/tree/master/0215-kth-largest-element-in-an-array) |
+| [0347-top-k-frequent-elements](https://github.com/abhay-053/-CrackYourPlacement/tree/master/0347-top-k-frequent-elements) |
 | [0778-swim-in-rising-water](https://github.com/abhay-053/-CrackYourPlacement/tree/master/0778-swim-in-rising-water) |
 | [1464-maximum-product-of-two-elements-in-an-array](https://github.com/abhay-053/-CrackYourPlacement/tree/master/1464-maximum-product-of-two-elements-in-an-array) |
 | [1514-path-with-maximum-probability](https://github.com/abhay-053/-CrackYourPlacement/tree/master/1514-path-with-maximum-probability) |
@@ -330,6 +334,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0215-kth-largest-element-in-an-array](https://github.com/abhay-053/-CrackYourPlacement/tree/master/0215-kth-largest-element-in-an-array) |
+| [0347-top-k-frequent-elements](https://github.com/abhay-053/-CrackYourPlacement/tree/master/0347-top-k-frequent-elements) |
 ## Dynamic Programming
 |  |
 | ------- |
@@ -379,6 +384,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0141-linked-list-cycle](https://github.com/abhay-053/-CrackYourPlacement/tree/master/0141-linked-list-cycle) |
 | [0169-majority-element](https://github.com/abhay-053/-CrackYourPlacement/tree/master/0169-majority-element) |
 | [0229-majority-element-ii](https://github.com/abhay-053/-CrackYourPlacement/tree/master/0229-majority-element-ii) |
+| [0347-top-k-frequent-elements](https://github.com/abhay-053/-CrackYourPlacement/tree/master/0347-top-k-frequent-elements) |
 | [0442-find-all-duplicates-in-an-array](https://github.com/abhay-053/-CrackYourPlacement/tree/master/0442-find-all-duplicates-in-an-array) |
 | [0525-contiguous-array](https://github.com/abhay-053/-CrackYourPlacement/tree/master/0525-contiguous-array) |
 | [0815-bus-routes](https://github.com/abhay-053/-CrackYourPlacement/tree/master/0815-bus-routes) |
@@ -609,6 +615,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0169-majority-element](https://github.com/abhay-053/-CrackYourPlacement/tree/master/0169-majority-element) |
 | [0229-majority-element-ii](https://github.com/abhay-053/-CrackYourPlacement/tree/master/0229-majority-element-ii) |
+| [0347-top-k-frequent-elements](https://github.com/abhay-053/-CrackYourPlacement/tree/master/0347-top-k-frequent-elements) |
 | [1189-maximum-number-of-balloons](https://github.com/abhay-053/-CrackYourPlacement/tree/master/1189-maximum-number-of-balloons) |
 | [1620-check-if-array-pairs-are-divisible-by-k](https://github.com/abhay-053/-CrackYourPlacement/tree/master/1620-check-if-array-pairs-are-divisible-by-k) |
 | [2494-sum-of-prefix-scores-of-strings](https://github.com/abhay-053/-CrackYourPlacement/tree/master/2494-sum-of-prefix-scores-of-strings) |
@@ -834,4 +841,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0169-majority-element](https://github.com/abhay-053/-CrackYourPlacement/tree/master/0169-majority-element) |
 | [0229-majority-element-ii](https://github.com/abhay-053/-CrackYourPlacement/tree/master/0229-majority-element-ii) |
+## Bucket Sort
+|  |
+| ------- |
+| [0347-top-k-frequent-elements](https://github.com/abhay-053/-CrackYourPlacement/tree/master/0347-top-k-frequent-elements) |
 <!---LeetCode Topics End-->
