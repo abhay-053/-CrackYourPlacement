@@ -9,9 +9,11 @@ public:
         }
 
         queue<int> q;
+        int cnt = 0;
         for(int i = 0; i< numCourses; i++){
             if(indegree[i] == 0){
                 q.push(i);
+                cnt++;
             }
         }
 
@@ -24,15 +26,14 @@ public:
 
                 if(indegree[nd] == 0){
                     q.push(nd);
+                    cnt++;
                 }
             }
         }
 
-        for(int i = 0; i< numCourses; i++){
-            if(indegree[i]){
-                return false;
-            }
+        if(cnt == numCourses){
+            return true;
         }
-        return true;
+        return false;
     }
 };
