@@ -441,6 +441,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0257-binary-tree-paths](https://github.com/abhay-053/-CrackYourPlacement/tree/master/0257-binary-tree-paths) |
 | [0316-remove-duplicate-letters](https://github.com/abhay-053/-CrackYourPlacement/tree/master/0316-remove-duplicate-letters) |
 | [0394-decode-string](https://github.com/abhay-053/-CrackYourPlacement/tree/master/0394-decode-string) |
+| [0402-remove-k-digits](https://github.com/abhay-053/-CrackYourPlacement/tree/master/0402-remove-k-digits) |
 | [0564-find-the-closest-palindrome](https://github.com/abhay-053/-CrackYourPlacement/tree/master/0564-find-the-closest-palindrome) |
 | [0848-shifting-letters](https://github.com/abhay-053/-CrackYourPlacement/tree/master/0848-shifting-letters) |
 | [0902-numbers-at-most-n-given-digit-set](https://github.com/abhay-053/-CrackYourPlacement/tree/master/0902-numbers-at-most-n-given-digit-set) |
@@ -480,6 +481,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0232-implement-queue-using-stacks](https://github.com/abhay-053/-CrackYourPlacement/tree/master/0232-implement-queue-using-stacks) |
 | [0316-remove-duplicate-letters](https://github.com/abhay-053/-CrackYourPlacement/tree/master/0316-remove-duplicate-letters) |
 | [0394-decode-string](https://github.com/abhay-053/-CrackYourPlacement/tree/master/0394-decode-string) |
+| [0402-remove-k-digits](https://github.com/abhay-053/-CrackYourPlacement/tree/master/0402-remove-k-digits) |
 | [1081-smallest-subsequence-of-distinct-characters](https://github.com/abhay-053/-CrackYourPlacement/tree/master/1081-smallest-subsequence-of-distinct-characters) |
 | [1197-parsing-a-boolean-expression](https://github.com/abhay-053/-CrackYourPlacement/tree/master/1197-parsing-a-boolean-expression) |
 | [1756-minimum-deletions-to-make-string-balanced](https://github.com/abhay-053/-CrackYourPlacement/tree/master/1756-minimum-deletions-to-make-string-balanced) |
@@ -618,6 +620,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0055-jump-game](https://github.com/abhay-053/-CrackYourPlacement/tree/master/0055-jump-game) |
 | [0122-best-time-to-buy-and-sell-stock-ii](https://github.com/abhay-053/-CrackYourPlacement/tree/master/0122-best-time-to-buy-and-sell-stock-ii) |
 | [0316-remove-duplicate-letters](https://github.com/abhay-053/-CrackYourPlacement/tree/master/0316-remove-duplicate-letters) |
+| [0402-remove-k-digits](https://github.com/abhay-053/-CrackYourPlacement/tree/master/0402-remove-k-digits) |
 | [1081-smallest-subsequence-of-distinct-characters](https://github.com/abhay-053/-CrackYourPlacement/tree/master/1081-smallest-subsequence-of-distinct-characters) |
 | [1833-maximum-ice-cream-bars](https://github.com/abhay-053/-CrackYourPlacement/tree/master/1833-maximum-ice-cream-bars) |
 | [1846-maximum-element-after-decreasing-and-rearranging](https://github.com/abhay-053/-CrackYourPlacement/tree/master/1846-maximum-element-after-decreasing-and-rearranging) |
@@ -748,6 +751,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0042-trapping-rain-water](https://github.com/abhay-053/-CrackYourPlacement/tree/master/0042-trapping-rain-water) |
 | [0084-largest-rectangle-in-histogram](https://github.com/abhay-053/-CrackYourPlacement/tree/master/0084-largest-rectangle-in-histogram) |
 | [0316-remove-duplicate-letters](https://github.com/abhay-053/-CrackYourPlacement/tree/master/0316-remove-duplicate-letters) |
+| [0402-remove-k-digits](https://github.com/abhay-053/-CrackYourPlacement/tree/master/0402-remove-k-digits) |
 | [1081-smallest-subsequence-of-distinct-characters](https://github.com/abhay-053/-CrackYourPlacement/tree/master/1081-smallest-subsequence-of-distinct-characters) |
 ## Trie
 |  |
