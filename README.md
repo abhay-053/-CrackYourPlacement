@@ -350,6 +350,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0042-trapping-rain-water](https://github.com/abhay-053/-CrackYourPlacement/tree/master/0042-trapping-rain-water) |
 | [0055-jump-game](https://github.com/abhay-053/-CrackYourPlacement/tree/master/0055-jump-game) |
 | [0070-climbing-stairs](https://github.com/abhay-053/-CrackYourPlacement/tree/master/0070-climbing-stairs) |
+| [0091-decode-ways](https://github.com/abhay-053/-CrackYourPlacement/tree/master/0091-decode-ways) |
 | [0096-unique-binary-search-trees](https://github.com/abhay-053/-CrackYourPlacement/tree/master/0096-unique-binary-search-trees) |
 | [0121-best-time-to-buy-and-sell-stock](https://github.com/abhay-053/-CrackYourPlacement/tree/master/0121-best-time-to-buy-and-sell-stock) |
 | [0122-best-time-to-buy-and-sell-stock-ii](https://github.com/abhay-053/-CrackYourPlacement/tree/master/0122-best-time-to-buy-and-sell-stock-ii) |
@@ -433,6 +434,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0038-count-and-say](https://github.com/abhay-053/-CrackYourPlacement/tree/master/0038-count-and-say) |
 | [0067-add-binary](https://github.com/abhay-053/-CrackYourPlacement/tree/master/0067-add-binary) |
 | [0068-text-justification](https://github.com/abhay-053/-CrackYourPlacement/tree/master/0068-text-justification) |
+| [0091-decode-ways](https://github.com/abhay-053/-CrackYourPlacement/tree/master/0091-decode-ways) |
 | [0132-palindrome-partitioning-ii](https://github.com/abhay-053/-CrackYourPlacement/tree/master/0132-palindrome-partitioning-ii) |
 | [0151-reverse-words-in-a-string](https://github.com/abhay-053/-CrackYourPlacement/tree/master/0151-reverse-words-in-a-string) |
 | [0257-binary-tree-paths](https://github.com/abhay-053/-CrackYourPlacement/tree/master/0257-binary-tree-paths) |
