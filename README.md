@@ -79,6 +79,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1840-maximum-building-height](https://github.com/abhay-053/-CrackYourPlacement/tree/master/1840-maximum-building-height) |
 | [1846-maximum-element-after-decreasing-and-rearranging](https://github.com/abhay-053/-CrackYourPlacement/tree/master/1846-maximum-element-after-decreasing-and-rearranging) |
 | [1866-restore-the-array-from-adjacent-pairs](https://github.com/abhay-053/-CrackYourPlacement/tree/master/1866-restore-the-array-from-adjacent-pairs) |
+| [1872-stone-game-viii](https://github.com/abhay-053/-CrackYourPlacement/tree/master/1872-stone-game-viii) |
 | [1940-maximum-xor-for-each-query](https://github.com/abhay-053/-CrackYourPlacement/tree/master/1940-maximum-xor-for-each-query) |
 | [1967-number-of-strings-that-appear-as-substrings-in-word](https://github.com/abhay-053/-CrackYourPlacement/tree/master/1967-number-of-strings-that-appear-as-substrings-in-word) |
 | [1979-find-greatest-common-divisor-of-array](https://github.com/abhay-053/-CrackYourPlacement/tree/master/1979-find-greatest-common-divisor-of-array) |
@@ -371,6 +372,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1751-maximum-number-of-events-that-can-be-attended-ii](https://github.com/abhay-053/-CrackYourPlacement/tree/master/1751-maximum-number-of-events-that-can-be-attended-ii) |
 | [1755-closest-subsequence-sum](https://github.com/abhay-053/-CrackYourPlacement/tree/master/1755-closest-subsequence-sum) |
 | [1756-minimum-deletions-to-make-string-balanced](https://github.com/abhay-053/-CrackYourPlacement/tree/master/1756-minimum-deletions-to-make-string-balanced) |
+| [1872-stone-game-viii](https://github.com/abhay-053/-CrackYourPlacement/tree/master/1872-stone-game-viii) |
 | [1976-number-of-ways-to-arrive-at-destination](https://github.com/abhay-053/-CrackYourPlacement/tree/master/1976-number-of-ways-to-arrive-at-destination) |
 | [2035-partition-array-into-two-arrays-to-minimize-sum-difference](https://github.com/abhay-053/-CrackYourPlacement/tree/master/2035-partition-array-into-two-arrays-to-minimize-sum-difference) |
 | [2054-two-best-non-overlapping-events](https://github.com/abhay-053/-CrackYourPlacement/tree/master/2054-two-best-non-overlapping-events) |
@@ -500,6 +502,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1344-angle-between-hands-of-a-clock](https://github.com/abhay-053/-CrackYourPlacement/tree/master/1344-angle-between-hands-of-a-clock) |
 | [1563-stone-game-v](https://github.com/abhay-053/-CrackYourPlacement/tree/master/1563-stone-game-v) |
 | [1840-maximum-building-height](https://github.com/abhay-053/-CrackYourPlacement/tree/master/1840-maximum-building-height) |
+| [1872-stone-game-viii](https://github.com/abhay-053/-CrackYourPlacement/tree/master/1872-stone-game-viii) |
 | [1927-sum-game](https://github.com/abhay-053/-CrackYourPlacement/tree/master/1927-sum-game) |
 | [1979-find-greatest-common-divisor-of-array](https://github.com/abhay-053/-CrackYourPlacement/tree/master/1979-find-greatest-common-divisor-of-array) |
 | [3014-minimum-number-of-pushes-to-type-word-i](https://github.com/abhay-053/-CrackYourPlacement/tree/master/3014-minimum-number-of-pushes-to-type-word-i) |
@@ -721,6 +724,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1140-stone-game-ii](https://github.com/abhay-053/-CrackYourPlacement/tree/master/1140-stone-game-ii) |
 | [1208-get-equal-substrings-within-budget](https://github.com/abhay-053/-CrackYourPlacement/tree/master/1208-get-equal-substrings-within-budget) |
 | [1732-find-the-highest-altitude](https://github.com/abhay-053/-CrackYourPlacement/tree/master/1732-find-the-highest-altitude) |
+| [1872-stone-game-viii](https://github.com/abhay-053/-CrackYourPlacement/tree/master/1872-stone-game-viii) |
 | [1940-maximum-xor-for-each-query](https://github.com/abhay-053/-CrackYourPlacement/tree/master/1940-maximum-xor-for-each-query) |
 | [3026-maximum-good-subarray-sum](https://github.com/abhay-053/-CrackYourPlacement/tree/master/3026-maximum-good-subarray-sum) |
 | [3312-sorted-gcd-pair-queries](https://github.com/abhay-053/-CrackYourPlacement/tree/master/3312-sorted-gcd-pair-queries) |
@@ -838,15 +842,18 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0877-stone-game](https://github.com/abhay-053/-CrackYourPlacement/tree/master/0877-stone-game) |
 | [1140-stone-game-ii](https://github.com/abhay-053/-CrackYourPlacement/tree/master/1140-stone-game-ii) |
 | [1563-stone-game-v](https://github.com/abhay-053/-CrackYourPlacement/tree/master/1563-stone-game-v) |
+| [1872-stone-game-viii](https://github.com/abhay-053/-CrackYourPlacement/tree/master/1872-stone-game-viii) |
 | [1927-sum-game](https://github.com/abhay-053/-CrackYourPlacement/tree/master/1927-sum-game) |
 ## Minimax
 |  |
 | ------- |
 | [1140-stone-game-ii](https://github.com/abhay-053/-CrackYourPlacement/tree/master/1140-stone-game-ii) |
+| [1872-stone-game-viii](https://github.com/abhay-053/-CrackYourPlacement/tree/master/1872-stone-game-viii) |
 ## Zero-Sum Game
 |  |
 | ------- |
 | [1140-stone-game-ii](https://github.com/abhay-053/-CrackYourPlacement/tree/master/1140-stone-game-ii) |
+| [1872-stone-game-viii](https://github.com/abhay-053/-CrackYourPlacement/tree/master/1872-stone-game-viii) |
 ## Boyer–Moore Majority Vote Algorithm
 |  |
 | ------- |
