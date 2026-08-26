@@ -460,6 +460,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1967-number-of-strings-that-appear-as-substrings-in-word](https://github.com/abhay-053/-CrackYourPlacement/tree/master/1967-number-of-strings-that-appear-as-substrings-in-word) |
 | [2494-sum-of-prefix-scores-of-strings](https://github.com/abhay-053/-CrackYourPlacement/tree/master/2494-sum-of-prefix-scores-of-strings) |
 | [2755-extra-characters-in-a-string](https://github.com/abhay-053/-CrackYourPlacement/tree/master/2755-extra-characters-in-a-string) |
+| [2904-shortest-and-lexicographically-smallest-beautiful-string](https://github.com/abhay-053/-CrackYourPlacement/tree/master/2904-shortest-and-lexicographically-smallest-beautiful-string) |
 | [3014-minimum-number-of-pushes-to-type-word-i](https://github.com/abhay-053/-CrackYourPlacement/tree/master/3014-minimum-number-of-pushes-to-type-word-i) |
 | [3016-minimum-number-of-pushes-to-type-word-ii](https://github.com/abhay-053/-CrackYourPlacement/tree/master/3016-minimum-number-of-pushes-to-type-word-ii) |
 | [3018-make-string-a-subsequence-using-cyclic-increments](https://github.com/abhay-053/-CrackYourPlacement/tree/master/3018-make-string-a-subsequence-using-cyclic-increments) |
@@ -817,6 +818,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1208-get-equal-substrings-within-budget](https://github.com/abhay-053/-CrackYourPlacement/tree/master/1208-get-equal-substrings-within-budget) |
 | [1358-number-of-substrings-containing-all-three-characters](https://github.com/abhay-053/-CrackYourPlacement/tree/master/1358-number-of-substrings-containing-all-three-characters) |
 | [2444-count-subarrays-with-fixed-bounds](https://github.com/abhay-053/-CrackYourPlacement/tree/master/2444-count-subarrays-with-fixed-bounds) |
+| [2904-shortest-and-lexicographically-smallest-beautiful-string](https://github.com/abhay-053/-CrackYourPlacement/tree/master/2904-shortest-and-lexicographically-smallest-beautiful-string) |
 | [2958-length-of-longest-subarray-with-at-most-k-frequency](https://github.com/abhay-053/-CrackYourPlacement/tree/master/2958-length-of-longest-subarray-with-at-most-k-frequency) |
 | [3090-maximum-length-substring-with-two-occurrences](https://github.com/abhay-053/-CrackYourPlacement/tree/master/3090-maximum-length-substring-with-two-occurrences) |
 ## Union-Find
